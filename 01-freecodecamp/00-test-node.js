@@ -1,3 +1,3 @@
 console.log("Hello from Node!");
+// Ctrl - ö to start Terminal: node test.js
 
-// now Ctrl-ö (terminal starts) and type "node test.js" in the terminal
