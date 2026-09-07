@@ -1,4 +1,4 @@
-/* let adminVar, nameVar;
+let adminVar, nameVar;
 nameVar = 'John';
 adminVar = nameVar;
 alert(nameVar);
@@ -21,7 +21,7 @@ alert( 3 * NaN ); // NaN
 alert( "not a number" / 2 - 1 ); // NaN
 
 // the "n" at the end means it's a BigInt
-const bigInt = 1234567890123456789012345678901234567890n; */
+const bigInt = 1234567890123456789012345678901234567890n; 
 
 const userName = prompt("What's your name?", "Hanna");
 alert( `Your name is ${userName}` );
@@ -44,5 +44,39 @@ console.log(maxScore); // 100
 let age;
 console.log(age); // undefined
 age = 25;
-console.log(age); // 25
+console.log(age); // 25 
 
+let developer = "Jessica";
+console.log(developer[1]);
+
+let firstName = "John";
+let lastName = "Doe";
+
+let fullName = firstName + " " + lastName; 
+console.log(fullName); // John Doe
+
+let greeting = 'Hello';
+greeting += ', John!';
+
+console.log(greeting); // Hello, John!
+
+
+
+let str1 = 'Hello';
+let str2 = 'World';
+
+let result = str1.concat(', ', str2); 
+console.log(result); // Hello World
+
+let resultStr2 = str2.concat(" ", str1);
+console.log(resultStr2);
+
+
+str1 += str2;
+console.log(str1);
+
+
+let name = "Alice";
+let age = 25;
+console.log("Name:", name, "Age:", age); // Name: Alice Age: 25
+console.log(`Name:\n${name}\nAge:\n${age}`);
