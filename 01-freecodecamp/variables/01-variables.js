@@ -76,7 +76,7 @@ str1 += str2;
 console.log(str1);
 
 
-let name = "Alice";
-let age = 25;
-console.log("Name:", name, "Age:", age); // Name: Alice Age: 25
-console.log(`Name:\n${name}\nAge:\n${age}`);
+let myName = "Alice";
+let myAge = 25;
+console.log("Name:", myName, "Age:", myAge); // Name: Alice Age: 25
+console.log(`Name:\n${myName}\nAge:\n${myAge}`);
