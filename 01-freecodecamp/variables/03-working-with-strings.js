@@ -57,4 +57,10 @@ let position3 = sentence.indexOf("owl", 11); //case sensitive!
 console.log(position3);
 console.log("x=x=x=x=x=x=x");
 
+const btn = document.getElementById('prompt-btn');
+const display = document.getElementById('display-prompt');
+btn.addEventListener('click', () => {
+  const customerName = prompt("What\'s your name?", "Moris");
+  display.textContent = `Hello dear ${customerName}!`;
+});
 
