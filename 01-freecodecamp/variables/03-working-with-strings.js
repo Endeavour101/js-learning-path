@@ -64,40 +64,153 @@ btn.addEventListener('click', () => {
   display.textContent = `Hello dear ${customerName}!`;
 });
 
+
+console.log("x=x=x=x=x=x=x");
+
 let car = "!Ford Mustang";
 console.log(car.charCodeAt("0"));
 console.log(car.charCodeAt("1"));
 console.log(car.charAt("0"));
 console.log(car.charAt("1"));
 
+console.log("x=x=x=x=x=x=x");
+
 let char = String.fromCharCode(65);
 console.log(char);
 let char1 = String.fromCharCode(66);
 console.log(char1);
 
-alert( `My\n`.length ); // 3
+console.log("x=x=x=x=x=x=x");
+
+console.log( `My\n`.length ); // 3
+
+console.log("x=x=x=x=x=x=x");
 
 let str = `Bye`;
 
 // the first character
-alert( str[0] ); // H
-alert( str.at(0) ); // H
+console.log( str[0] ); // H
+console.log( str.at(0) ); // H
+
+console.log("x=x=x=x=x=x=x");
 
 // the last character
-alert( str[str.length - 1] ); // o
+console.log( str[str.length - 1] ); // o
 /* alert( str.at(-1) );
 alert( str.at(-2) );
 alert( str.at(-3) ); */
 
+console.log("x=x=x=x=x=x=x");
+
 for (let char of "Bye") {
-  alert(char); // H,e,l,l,o (char becomes "H", then "e", then "l" etc)
+  console.log(char); // H,e,l,l,o (char becomes "H", then "e", then "l" etc)
 }
+
+console.log("x=x=x=x=x=x=x");
 
 let str1 = 'Hi';
 str1 = 'h' + str1[1]; // replace the string
-alert( str1 ); // hi
+console.log( str1 ); // hi
 
-alert( 'Piazza'.toUpperCase() ); // INTERFACE
-alert( 'Piazza'.toLowerCase() ); // interface
+console.log( 'Piazza'.toUpperCase() ); // INTERFACE
+console.log( 'Piazza'.toLowerCase() ); // interface
 
-alert( 'Piazza'[0].toLowerCase() ); // 'i'
+console.log( 'Piazza'[0].toLowerCase() ); // 'i'
+
+
+console.log("x=x=x=x=x=x=x");
+
+
+let text = "The default browser checkboxes look different on every operating system and are notoriously difficult to style directly in a browser.";
+
+let target = "browser";
+
+let pos = 0;
+
+while (true) {
+  let foundPos = text.indexOf(target, pos);
+  if (foundPos == -1) break;
+
+  console.log( `Found on position: ${foundPos}` );
+  pos = foundPos + 1;
+}
+
+console.log("x=x=x=x=x=x=x");
+
+
+
+let sentence4 = "The red owl jumped over the big table and together with the other owl run off";
+let position4 = sentence4.lastIndexOf("owl", 70);
+console.log(position4);
+
+console.log("x=x=x=x=x=x=x");
+
+
+let sentence5 = "The red owl jumped over the big table and together with the other owl run off";
+console.log(sentence5.includes("owl"));
+console.log(sentence5.includes("Owl"));
+
+console.log("x=x=x=x=x=x=x");
+
+
+let sentence6 = "The red owl jumped over the big table and together with the other owl run off";
+console.log(sentence6.startsWith("The"));
+console.log(sentence6.endsWith("off"));
+
+console.log("x=x=x=x=x=x=x");
+
+
+let sentence7 = "The red owl jumped over the big table and together with the other owl run off";
+console.log(sentence7.slice(4, 6));
+console.log(sentence7.substring(4, 6));
+console.log(sentence7.substr(4, 2));
+
+console.log("x=x=x=x=x=x=x");
+
+
+let value = false;
+console.log(typeof value); // boolean
+
+value = String(value); // now value is a string "false"
+console.log(value);
+console.log(typeof value); // string
+
+console.log("x=x=x=x=x=x=x");
+
+
+console.log( "56" / "7");
+
+console.log("x=x=x=x=x=x=x");
+
+
+let PLZ = "123";
+console.log(typeof PLZ); // string
+
+let numPLZ = Number(PLZ); // becomes a number 123
+console.log(typeof numPLZ); // number
+
+console.log("x=x=x=x=x=x=x");
+
+
+console.log( Number("   123   ") ); // 123
+console.log( Number("123z") );      // NaN (error reading a number at "z")
+console.log( Number(true) );        // 1
+console.log( Number(false) );       // 0
+console.log( Number(null) );       // 0
+console.log( Number(undefined) );       // NaN
+
+console.log("x=x=x=x=x=x=x");
+
+
+console.log( Boolean(1) ); // true
+console.log( Boolean(0) ); // false
+console.log( Boolean("hello") ); // true
+console.log( Boolean("") ); // false
+
+// Values that are intuitively “empty”, like 0, an empty string, null, undefined, and NaN, become false.
+
+
+console.log( Boolean("0") ); // true
+console.log( Boolean(" ") ); // spaces, also true (any non-empty string is true)
+//the string with zero "0" is true
+//spaces, also true (any non-empty string is true)
