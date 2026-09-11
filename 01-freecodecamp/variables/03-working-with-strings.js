@@ -214,3 +214,51 @@ console.log( Boolean("0") ); // true
 console.log( Boolean(" ") ); // spaces, also true (any non-empty string is true)
 //the string with zero "0" is true
 //spaces, also true (any non-empty string is true)
+
+console.log("x=x=x=x=x=x=x");
+
+
+console.log( "ZA".codePointAt(0) ); // 90
+console.log( "za".codePointAt(0) ); // 122
+console.log( "za".codePointAt(0).toString(16) ); // 7a (if we need a hexadecimal value)
+console.log( "za".codePointAt(0).toString(2) );
+
+console.log( "ZA".codePointAt(1) ); // 90
+console.log( "za".codePointAt(1) ); // 122
+console.log( "za".codePointAt(1).toString(16) ); // 7a (if we need a hexadecimal value)
+console.log( "za".codePointAt(1).toString(2) );
+
+console.log("x=x=x=x=x=x=x");
+
+
+console.log( String.fromCodePoint(90) ); // Z
+console.log( String.fromCodePoint(0x5a) ); // Z (we can also use a hex value as an argument)
+
+
+/* 
+charCodeAt()
+fromCharCode()
+charAt()
+
+codePointAt()
+fromCodePoint()
+*/
+
+console.log("x=x=x=x=x=x=x");
+
+
+let strUTF = '';
+
+for (let i = 65; i <= 220; i++) {
+  strUTF += String.fromCodePoint(i);
+}
+console.log( strUTF );
+// Output:
+// ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+// ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜ
+
+console.log("x=x=x=x=x=x=x");
+
+
+name4 = "rosamunde";
+console.log(`${name4[0].toUpperCase()}${name4.slice(1)}`);

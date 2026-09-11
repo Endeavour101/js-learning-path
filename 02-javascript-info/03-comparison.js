@@ -43,3 +43,18 @@ console.log( null == undefined ); // true
 
 /* Treat any comparison with undefined/null except the strict equality === with exceptional care.
 Don’t use comparisons >= > < <= with a variable which may be null/undefined, unless you’re really sure of what you’re doing. If a variable can have these values, check for them separately. */
+
+console.log( "x=x=x=x=x=x=x=x" ); 
+
+
+let a = 0;
+console.log( Boolean(a) ); // false
+
+let b = "0";
+console.log( Boolean(b) ); // true
+
+console.log(a == b); // true!
+
+console.log( "x=x=x=x=x=x=x=x" ); 
+
+console.log( null == undefined );
