@@ -260,5 +260,37 @@ console.log( strUTF );
 console.log("x=x=x=x=x=x=x");
 
 
-name4 = "rosamunde";
+let name4 = "rosamunde";
 console.log(`${name4[0].toUpperCase()}${name4.slice(1)}`);
+
+console.log("x=x=x=x=x=x=x");
+
+
+let name5 = "    Hello. world!    ";
+console.log(name5.trim());
+console.log(name5.trimStart());
+console.log(name5.trimEnd());
+
+console.log("x=x=x=x=x=x=x");
+
+
+let text1 = "Java and JavaScript are not the same labguage!";
+console.log(text); 
+let newText = text1.replace("JavaScript", "Python");
+console.log(newText);  
+
+// The replace() method is case-sensitive
+// By default, the replace() method will only replace the first occurrence of the searchValue. 
+
+console.log("x=x=x=x=x=x=x");
+
+
+let word = "Hello!";
+let repeatedWord = word.repeat(3);
+console.log(repeatedWord); 
+
+let word1 = "Test";
+console.log(word1.repeat(2.9));
+
+let word2 = "Test";
+console.log(word.repeat(0));  // ""
