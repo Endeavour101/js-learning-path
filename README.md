@@ -51,22 +51,22 @@ Variables and Strings
 
 - [x] Build a String Transformer, Completed, Workshop
 
-- [ ] JavaScript Strings Review, Not started, Review
+- [x] JavaScript Strings Review, Completed, Review
 
-- [ ] JavaScript Strings Quiz, Not started, Quiz
+- [x] JavaScript Strings Quiz, Completed, Quiz
     Booleans and Numbers
 
-- [ ] Working with Numbers and Arithmetic Operators, Not started, Theory
+- [x] Working with Numbers and Arithmetic Operators, Completed, Theory
 
-- [ ] Debug Type Coercion Errors in a Buggy App, Not started, Lab
+- [x] Debug Type Coercion Errors in a Buggy App, Completed, Lab
 
-- [ ] Working with Operator Behavior, Not started, Theory
+- [x] Working with Operator Behavior, Completed, Theory
 
-- [ ] Debug Increment and Decrement Operator Errors in a Buggy App, Not started, Lab
+- [x] Debug Increment and Decrement Operator Errors in a Buggy App, Completed, Lab
 
-- [ ] Working with Comparison and Boolean Operators, Not started, Theory
+- [x] Working with Comparison and Boolean Operators, Completed, Theory
 
-- [ ] Build a Logic Checker App, Not started, Workshop
+- [x] Build a Logic Checker App, Completed, Workshop
 
 - [ ] Working with Unary and Bitwise Operators, Not started, Theory
 
@@ -555,7 +555,7 @@ Objects: the basics
 
 Data types
 
-- [x] Methods of primitives
+- [ ] Methods of primitives
 - [x] Numbers
 - [x] Strings
 - [ ] Arrays
