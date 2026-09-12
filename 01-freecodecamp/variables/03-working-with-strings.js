@@ -274,13 +274,18 @@ console.log(name5.trimEnd());
 console.log("x=x=x=x=x=x=x");
 
 
-let text1 = "Java and JavaScript are not the same labguage!";
-console.log(text); 
-let newText = text1.replace("JavaScript", "Python");
-console.log(newText);  
+let text1 = "Java and Python are not the same language! Python is cool!";
+console.log(text1); 
+let newText1 = text1.replaceAll("Python", "JavaScript");
+console.log(newText1);  
 
 // The replace() method is case-sensitive
 // By default, the replace() method will only replace the first occurrence of the searchValue. 
+
+let text2 = "Java and Python are not the same language! Python is cool!";
+console.log(text2); 
+let newText2 = text2.replaceAll("Python", "JavaScript");
+console.log(newText2);  
 
 console.log("x=x=x=x=x=x=x");
 
