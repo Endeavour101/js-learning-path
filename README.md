@@ -70,15 +70,15 @@ Variables and Strings
 
 - [x] Working with Unary and Bitwise Operators, Completed, Theory
 
-- [ ] Working with Conditional Logic and Math Methods, Not started, Theory
+- [x] Working with Conditional Logic and Math Methods, Completed, Theory
 
-- [ ] Build a Mathbot, Not started, Workshop
+- [x] Build a Mathbot, Completed, Workshop
 
-- [ ] Build a Fortune Teller, Not started, Lab
+- [x] Build a Fortune Teller, Completed, Lab
 
-- [ ] Working with Numbers and Common Number Methods, Not started, Theory
+- [x] Working with Numbers and Common Number Methods, Completed, Theory
 
-- [ ] JavaScript Math Review, Not started, Review
+- [x] JavaScript Math Review, Completed, Review
 
 - [ ] JavaScript Math Quiz, Not started, Quiz
 

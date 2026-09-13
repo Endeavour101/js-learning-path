@@ -204,3 +204,6 @@ console.log(Math.abs(5)); // 5
 
 console.log(Math.pow(2, 3)); // 8
 console.log(Math.pow(8, 2)); // 64
+
+
+console.log(typeof NaN);
