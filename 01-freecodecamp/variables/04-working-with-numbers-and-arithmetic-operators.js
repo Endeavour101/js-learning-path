@@ -123,3 +123,30 @@ console.log(a3 << 1);  // 10 (Binary: 1010)
 
 let a4 = 5;  // Binary: 101
 console.log(a4 >> 1);  // 2 (Binary: 10)
+
+console.log("x=x=x=x=x=x=x");
+
+console.log(Boolean( 2 > 1 ));
+
+
+console.log("x=x=x=x=x=x=x");
+
+let a6 = 0;
+console.log( Boolean(a6) ); // false
+
+let b6 = "0";
+console.log( Boolean(b6) ); // true
+
+console.log(a6 == b6); // true!
+console.log(a6 === b6); // false!
+
+
+console.log("x=x=x=x=x=x=x");
+
+console.log(typeof null);
+console.log(typeof undefined);
+
+console.log("x=x=x=x=x=x=x");
+
+
+console.log(Number(" \n 55  "));

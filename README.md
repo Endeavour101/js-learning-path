@@ -68,7 +68,7 @@ Variables and Strings
 
 - [x] Build a Logic Checker App, Completed, Workshop
 
-- [ ] Working with Unary and Bitwise Operators, Not started, Theory
+- [x] Working with Unary and Bitwise Operators, Completed, Theory
 
 - [ ] Working with Conditional Logic and Math Methods, Not started, Theory
 
