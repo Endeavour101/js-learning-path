@@ -80,13 +80,13 @@ Variables and Strings
 
 - [x] JavaScript Math Review, Completed, Review
 
-- [ ] JavaScript Math Quiz, Not started, Quiz
+- [x] JavaScript Math Quiz, Not started, Quiz
 
-- [ ] Understanding Comparisons and Conditionals, Not started, Theory
+- [x] Understanding Comparisons and Conditionals, Not started, Theory
 
-- [ ] JavaScript Comparisons and Conditionals Review, Not started, Review
+- [x] JavaScript Comparisons and Conditionals Review, Not started, Review
 
-- [ ] JavaScript Comparisons and Conditionals Quiz, Not started, Quiz
+- [x] JavaScript Comparisons and Conditionals Quiz, Not started, Quiz
     Functions
 
 - [ ] Working with Functions, Not started, Theory
@@ -523,9 +523,9 @@ JavaScript Fundamentals
 - [x] Type Conversions
 - [x] Basic operators, maths
 - [x] Comparisons
-- [ ] Conditional branching: if, '?'
-- [ ] Logical operators
-- [ ] Nullish coalescing operator '??'
+- [x] Conditional branching: if, '?'
+- [x] Logical operators
+- [x] Nullish coalescing operator '??'
 - [ ] Loops: while and for
 - [ ] The "switch" statement
 - [ ] Functions

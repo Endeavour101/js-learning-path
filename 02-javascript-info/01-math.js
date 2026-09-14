@@ -277,4 +277,3 @@ console.log(Number.isNaN(undefined));   // ➡️ false (Safe! undefined is an U
 console.log(Number.isNaN());            // ➡️ false (Safe! Empty defaults to undefined type)
 
 
-
