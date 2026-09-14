@@ -206,4 +206,75 @@ console.log(Math.pow(2, 3)); // 8
 console.log(Math.pow(8, 2)); // 64
 
 
-console.log(typeof NaN);
+console.log(Number(undefined));
+
+console.log(isNaN(""));
+console.log(isNaN(2));
+
+
+
+// --- Global isFinite() ---
+console.log(isFinite("123"));       // true (String "123" is converted to number 123)
+console.log(isFinite(""));          // true (Empty string is converted to 0)
+console.log(isFinite(null));        // true (null is converted to 0)
+console.log(isFinite("Hello"));     // false (Cannot be converted to a number, becomes NaN)
+
+// --- Number.isFinite() ---
+console.log(Number.isFinite("123"));   // false (It's a string type, no conversion)
+console.log(Number.isFinite(""));      // false
+console.log(Number.isFinite(null));    // false
+console.log(Number.isFinite("Hello")); // false
+
+
+
+console.log(isNaN(42));          // ➡️ false (42 is a valid number)
+console.log(isNaN(-3.14));       // ➡️ false (Negative decimals are valid numbers)
+console.log(isNaN(5 / 2));       // ➡️ false (Evaluates to 2.5, which is a valid number)
+console.log(isNaN(Infinity));    // ➡️ false (In JavaScript, Infinity is a valid numeric state!)
+
+
+console.log(isNaN("100"));       // ➡️ false (Coerces to the number 100)
+console.log(isNaN("  -4.5  "));  // ➡️ false (Trims spaces and coerces to -4.5)
+console.log(isNaN("3.14e2"));    // ➡️ false (Coerces scientific notation to 314)
+
+
+console.log(isNaN(NaN));         // ➡️ true  (It is literally Not-a-Number)
+console.log(isNaN(0 / 0));       // ➡️ true  (0/0 evaluates directly to NaN)
+console.log(isNaN("hello"));     // ➡️ true  (Text strings cannot convert to numbers)
+console.log(isNaN("12px"));      // ➡️ true  (🚨 TRAP: Unlike parseInt, global isNaN fails if letters are inside)
+
+
+console.log(isNaN(null));        // ➡️ false (🚨 TRAP: null coerces to the number 0, so it's "not NaN")
+console.log(isNaN(""));          // ➡️ false (🚨 TRAP: An empty string coerces to 0, so it's "not NaN")
+console.log(isNaN(false));       // ➡️ false (false coerces to 0)
+console.log(isNaN(true));        // ➡️ false (true coerces to 1)
+
+console.log(isNaN(undefined));   // ➡️ true  (undefined coerces to NaN)
+console.log(isNaN());            // ➡️ true  (Empty parentheses default to undefined, which becomes NaN)
+
+
+
+console.log(Number.isNaN(42));          // ➡️ false (A valid number)
+console.log(Number.isNaN(-3.14));       // ➡️ false (A valid decimal)
+console.log(Number.isNaN(Infinity));    // ➡️ false (Infinity is a valid numeric state)
+
+
+
+console.log(Number.isNaN("100"));       // ➡️ false (It's a String type, not NaN)
+console.log(Number.isNaN("hello"));     // ➡️ false (It's a String type, not NaN)
+
+
+
+console.log(Number.isNaN(NaN));         // ➡️ true  (Directly the NaN token)
+console.log(Number.isNaN(0 / 0));       // ➡️ true  (0/0 evaluates directly to NaN)
+console.log(Number.isNaN(Number("abc")));// ➡️ true  (Number("abc") outputs a true NaN)
+
+
+console.log(Number.isNaN(null));        // ➡️ false (Safe! null is an Object/Null type)
+console.log(Number.isNaN(""));          // ➡️ false (Safe! "" is a String type)
+console.log(Number.isNaN(false));       // ➡️ false (Safe! false is a Boolean type)
+console.log(Number.isNaN(undefined));   // ➡️ false (Safe! undefined is an Undefined type)
+console.log(Number.isNaN());            // ➡️ false (Safe! Empty defaults to undefined type)
+
+
+
