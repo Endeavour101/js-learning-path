@@ -80,16 +80,16 @@ Variables and Strings
 
 - [x] JavaScript Math Review, Completed, Review
 
-- [x] JavaScript Math Quiz, Not started, Quiz
+- [x] JavaScript Math Quiz, Completed, Quiz
 
-- [x] Understanding Comparisons and Conditionals, Not started, Theory
+- [x] Understanding Comparisons and Conditionals, Completed, Theory
 
-- [x] JavaScript Comparisons and Conditionals Review, Not started, Review
+- [x] JavaScript Comparisons and Conditionals Review, Completed, Review
 
-- [x] JavaScript Comparisons and Conditionals Quiz, Not started, Quiz
+- [x] JavaScript Comparisons and Conditionals Quiz, Completed, Quiz
     Functions
 
-- [ ] Working with Functions, Not started, Theory
+- [x] Working with Functions, Completed, Theory
 
 - [ ] Build a Calculator, Not started, Workshop
 
