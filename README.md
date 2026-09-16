@@ -93,7 +93,7 @@ Variables and Strings
 
 - [x] Build a Calculator, Completed, Workshop
 
-- [ ] Build a Boolean Check Function, Not started, Lab
+- [x] Build a Boolean Check Function, Completed, Lab
 
 - [ ] Build an Email Masker, Not started, Lab
 
