@@ -51,3 +51,51 @@ console.log(eligibilityStatus);
 
 
 // It's worth noting that switch statements in JavaScript use strict comparison (===), which means they don't perform type coercion. This can be an advantage in terms of predictability and avoiding subtle bugs.
+
+
+
+let a = 3;
+
+switch (a) {
+  case 4:
+    alert('Right!');
+    break;
+
+  case 3: // (*) grouped two cases
+  case 5:
+    alert('Wrong!');
+    alert("Why don't you take a math class?");
+    break;
+
+  default:
+    alert('The result is strange. Really.');
+}
+
+
+//
+let b = +prompt('b?', '');
+//
+
+
+let c = +prompt('c?', '');
+
+switch (c) {
+  case 0:
+    alert( 0 );
+    break;
+
+  case 1:
+    alert( 1 );
+    break;
+
+  case 2:
+  case 3:
+    alert( '2,3' );
+    break;
+}
+
+
+
+
+
+

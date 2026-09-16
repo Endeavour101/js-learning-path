@@ -527,10 +527,10 @@ JavaScript Fundamentals
 - [x] Logical operators
 - [x] Nullish coalescing operator '??'
 - [ ] Loops: while and for
-- [ ] The "switch" statement
-- [ ] Functions
-- [ ] Function expressions
-- [ ] Arrow functions, the basics
+- [x] The "switch" statement
+- [x] Functions
+- [x] Function expressions
+- [x] Arrow functions, the basics
 - [ ] JavaScript specials
 
 Code quality
