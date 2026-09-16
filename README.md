@@ -91,7 +91,7 @@ Variables and Strings
 
 - [x] Working with Functions, Completed, Theory
 
-- [ ] Build a Calculator, Not started, Workshop
+- [x] Build a Calculator, Completed, Workshop
 
 - [ ] Build a Boolean Check Function, Not started, Lab
 
