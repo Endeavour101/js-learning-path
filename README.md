@@ -95,7 +95,7 @@ Variables and Strings
 
 - [x] Build a Boolean Check Function, Completed, Lab
 
-- [ ] Build an Email Masker, Not started, Lab
+- [x] Build an Email Masker, Completed, Lab
 
 - [ ] Build a Loan Qualification Checker, Not started, Workshop
 

@@ -62,7 +62,7 @@ showMessage("Ann"); // Ann: no text given
 function showMessage(text) {
   // if text is undefined or otherwise falsy, set it to 'empty'
   text = text || 'empty';
-  ...
+  //...
 }
 
 
@@ -209,9 +209,9 @@ console.log( double(3) ); // 6
 
 
 //
-let age = prompt("What is your age?", 18);
+let age4 = prompt("What is your age?", 18);
 
-let welcome = (age < 18) ?
+let welcome = (age4 < 18) ?
   () => console.log('Hello!') :
   () => console.log("Greetings!");
 
