@@ -97,7 +97,7 @@ Variables and Strings
 
 - [x] Build an Email Masker, Completed, Lab
 
-- [ ] Build a Loan Qualification Checker, Not started, Workshop
+- [x] Build a Loan Qualification Checker, Completed, Workshop
 
 - [ ] Build a Celsius to Fahrenheit Converter, Not started, Lab
 
