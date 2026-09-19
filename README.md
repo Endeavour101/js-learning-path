@@ -99,7 +99,7 @@ Variables and Strings
 
 - [x] Build a Loan Qualification Checker, Completed, Workshop
 
-- [ ] Build a Celsius to Fahrenheit Converter, Not started, Lab
+- [x] Build a Celsius to Fahrenheit Converter, Completed, Lab
 
 - [ ] Build a Card Counting Assistant, Not started, Lab
 
