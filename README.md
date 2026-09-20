@@ -101,17 +101,17 @@ Variables and Strings
 
 - [x] Build a Celsius to Fahrenheit Converter, Completed, Lab
 
-- [x] Build a Card Counting Assistant, Not started, Lab
+- [x] Build a Card Counting Assistant, Completed, Lab
 
-- [x] Build a Leap Year Calculator , Not started, Lab
+- [x] Build a Leap Year Calculator , Completed, Lab
 
-- [x] Implement the Truncate String Algorithm, Not started, Lab
+- [x] Implement the Truncate String Algorithm, Completed, Lab
 
-- [x] Build a Confirm the Ending Tool, Not started, Lab
+- [x] Build a Confirm the Ending Tool, Completed, Lab
 
-- [ ] JavaScript Functions Review, Not started, Review
+- [x] JavaScript Functions Review, Completed, Review
 
-- [ ] JavaScript Functions Quiz, Not started, Quiz
+- [x] JavaScript Functions Quiz, Completed, Quiz
     Arrays
 
 - [ ] Working with Arrays, Not started, Theory
