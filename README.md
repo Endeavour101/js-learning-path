@@ -103,7 +103,7 @@ Variables and Strings
 
 - [x] Build a Card Counting Assistant, Not started, Lab
 
-- [ ] Build a Leap Year Calculator , Not started, Lab
+- [x] Build a Leap Year Calculator , Not started, Lab
 
 - [ ] Implement the Truncate String Algorithm, Not started, Lab
 
