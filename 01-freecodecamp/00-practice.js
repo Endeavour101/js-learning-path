@@ -72,7 +72,7 @@ while (i < 11) {
 console.log(guestList); */
 
 
-function isLeapYear (attrYear) {
+/* function isLeapYear (attrYear) {
   let flag = false;
   if ( attrYear%4 == 0 ) {
     if ( attrYear%100 == 0) {
@@ -101,4 +101,17 @@ console.log(result);
 
 year = 1900;
 result = isLeapYear(year);
-console.log(result);
+console.log(result); */
+
+
+function truncateString (text, number) {
+  let stringLength = text.length;
+  if ( stringLength > number) {
+    return `${text.slice(0, number)}...`;
+  } else {
+    return text;
+  }
+}
+
+console.log(truncateString ("Absolutely Longer", 2));
+

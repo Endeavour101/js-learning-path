@@ -105,7 +105,7 @@ Variables and Strings
 
 - [x] Build a Leap Year Calculator , Not started, Lab
 
-- [ ] Implement the Truncate String Algorithm, Not started, Lab
+- [x] Implement the Truncate String Algorithm, Not started, Lab
 
 - [ ] Build a Confirm the Ending Tool, Not started, Lab
 
