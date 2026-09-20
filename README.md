@@ -107,7 +107,7 @@ Variables and Strings
 
 - [x] Implement the Truncate String Algorithm, Not started, Lab
 
-- [ ] Build a Confirm the Ending Tool, Not started, Lab
+- [x] Build a Confirm the Ending Tool, Not started, Lab
 
 - [ ] JavaScript Functions Review, Not started, Review
 
