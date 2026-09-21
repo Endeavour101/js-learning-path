@@ -114,9 +114,9 @@ Variables and Strings
 - [x] JavaScript Functions Quiz, Completed, Quiz
     Arrays
 
-- [ ] Working with Arrays, Not started, Theory
+- [x] Working with Arrays, Completed, Theory
 
-- [ ] Build a Shopping List, Not started, Workshop
+- [x] Build a Shopping List, Completed, Workshop
 
 - [ ] Build a Lunch Picker Program, Not started, Lab
 
