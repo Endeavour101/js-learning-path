@@ -9,7 +9,7 @@ Target: 25 hours/week of systematic practice.
 - [ ] freeCodeCamp Core Fundamentals (In Progress)
 - [ ] JavaScript.info Deep Dives (In Progress)
 
-# Curriculum   [www.freecodecamp.org](http://www.freecodecamp.org)
+# Curriculum [www.freecodecamp.org](http://www.freecodecamp.org)
 
 ## JavaScript
 
@@ -54,7 +54,7 @@ Variables and Strings
 - [x] JavaScript Strings Review, Completed, Review
 
 - [x] JavaScript Strings Quiz, Completed, Quiz
-    Booleans and Numbers
+      Booleans and Numbers
 
 - [x] Working with Numbers and Arithmetic Operators, Completed, Theory
 
@@ -87,7 +87,7 @@ Variables and Strings
 - [x] JavaScript Comparisons and Conditionals Review, Completed, Review
 
 - [x] JavaScript Comparisons and Conditionals Quiz, Completed, Quiz
-    Functions
+      Functions
 
 - [x] Working with Functions, Completed, Theory
 
@@ -112,13 +112,13 @@ Variables and Strings
 - [x] JavaScript Functions Review, Completed, Review
 
 - [x] JavaScript Functions Quiz, Completed, Quiz
-    Arrays
+      Arrays
 
 - [x] Working with Arrays, Completed, Theory
 
 - [x] Build a Shopping List, Completed, Workshop
 
-- [ ] Build a Lunch Picker Program, Not started, Lab
+- [x] Build a Lunch Picker Program, Complted, Lab
 
 - [ ] Build a Golf Score Translator, Not started, Lab
 
@@ -127,7 +127,7 @@ Variables and Strings
 - [ ] JavaScript Arrays Review, Not started, Review
 
 - [ ] JavaScript Arrays Quiz, Not started, Quiz
-    Objects,
+      Objects,
 
 - [ ] Introduction to JavaScript Objects and Their Properties, Not started, Theory
 
@@ -150,7 +150,7 @@ Variables and Strings
 - [ ] JavaScript Objects Review, Not started, Review
 
 - [ ] JavaScript Objects Quiz, Not started, Quiz
-    Loops
+      Loops
 
 - [ ] Working with Loops, Not started, Theory
 
@@ -187,7 +187,7 @@ Variables and Strings
 - [ ] JavaScript Loops Review, Not started, Review
 
 - [ ] JavaScript Loops Quiz, Not started, Quiz
-    JavaScript Fundamentals Review
+      JavaScript Fundamentals Review
 
 - [ ] Working with Types and Objects, Not started, Theory
 
@@ -240,7 +240,7 @@ Variables and Strings
 - [ ] JavaScript Fundamentals Review, Not started, Review
 
 - [ ] JavaScript Fundamentals Quiz, Not started, Quiz
-    Higher Order Functions and Callbacks
+      Higher Order Functions and Callbacks
 
 - [ ] Working with Higher Order Functions and Callbacks, Not started, Theory
 
@@ -265,7 +265,7 @@ Variables and Strings
 - [ ] JavaScript Higher Order Functions Review, Not started, Review
 
 - [ ] JavaScript Higher Order Functions Quiz, Not started, Quiz
-    DOM Manipulation and Events
+      DOM Manipulation and Events
 
 - [ ] Working with the DOM, Click Events, and Web APIs, Not started, Theory
 
@@ -290,7 +290,7 @@ Variables and Strings
 - [ ] DOM Manipulation and Click Events with JavaScript Review, Not started, Review
 
 - [ ] DOM Manipulation and Click Events with JavaScript Quiz, Not started, Quiz
-    JavaScript and Accessibility
+      JavaScript and Accessibility
 
 - [ ] Understanding aria-expanded, aria-live, and Common ARIA States, Not started, Theory
 
@@ -303,7 +303,7 @@ Variables and Strings
 - [ ] JavaScript and Accessibility Review, Not started, Review
 
 - [ ] JavaScript and Accessibility Quiz, Not started, Quiz
-    Debugging
+      Debugging
 
 - [ ] Debugging Techniques, Not started, Theory
 
@@ -312,7 +312,7 @@ Variables and Strings
 - [ ] Debugging JavaScript Review, Not started, Review
 
 - [ ] Debugging JavaScript Quiz, Not started, Quiz
-    Basic Regex
+      Basic Regex
 
 - [ ] Working with Regular Expressions, Not started, Theory
 
@@ -331,8 +331,8 @@ Variables and Strings
 - [ ] JavaScript Regular Expressions Review, Not started, Review
 
 - [ ] JavaScript Regular Expressions Quiz, Not started, Quiz
-    Build a Markdown to HTML Converter, Not started, Certification Project  
-    Form Validation
+      Build a Markdown to HTML Converter, Not started, Certification Project  
+       Form Validation
 
 - [ ] Understanding Form Validation, Not started, Theory
 
@@ -343,7 +343,7 @@ Variables and Strings
 - [ ] Form Validation with JavaScript Review, Not started, Review
 
 - [ ] Form Validation with JavaScript Quiz, Not started, Quiz
-    Dates
+      Dates
 
 - [ ] Working with Dates, Not started, Theory
 
@@ -352,7 +352,7 @@ Variables and Strings
 - [ ] JavaScript Dates Review, Not started, Review
 
 - [ ] JavaScript Dates Quiz, Not started, Quiz
-    Audio and Video Events
+      Audio and Video Events
 
 - [ ] Working with Audio and Video, Not started, Theory
 
@@ -361,8 +361,8 @@ Variables and Strings
 - [ ] JavaScript Audio and Video Review, Not started, Review
 
 - [ ] JavaScript Audio and Video Quiz, Not started, Quiz
-    Build a Drum Machine, Not started, Certification Project  
-    Maps and Sets
+      Build a Drum Machine, Not started, Certification Project  
+       Maps and Sets
 
 - [ ] Working with Maps and Sets, Not started, Theory
 
@@ -371,8 +371,8 @@ Variables and Strings
 - [ ] JavaScript Maps and Sets Review, Not started, Review
 
 - [ ] JavaScript Maps and Sets Quiz, Not started, Quiz
-    Build a Voting System, Not started, Certification Project  
-    localStorage and CRUD Operations
+      Build a Voting System, Not started, Certification Project  
+       localStorage and CRUD Operations
 
 - [ ] Working with Client-Side Storage and CRUD Operations, Not started, Theory
 
@@ -383,7 +383,7 @@ Variables and Strings
 - [ ] Local Storage and CRUD Review, Not started, Review
 
 - [ ] Local Storage and CRUD Quiz, Not started, Quiz
-    Classes
+      Classes
 
 - [ ] Understanding How to Work with Classes in JavaScript, Not started, Theory
 
@@ -394,8 +394,8 @@ Variables and Strings
 - [ ] JavaScript Classes Review, Not started, Review
 
 - [ ] JavaScript Classes Quiz, Not started, Quiz
-    Build a Bank Account Management Program, Not started, Certification Project  
-    Recursion
+      Build a Bank Account Management Program, Not started, Certification Project  
+       Recursion
 
 - [ ] Understanding Recursion and the Call Stack, Not started, Theory
 
@@ -412,7 +412,7 @@ Variables and Strings
 - [ ] Recursion Review, Not started, Review
 
 - [ ] Recursion Quiz, Not started, Quiz
-    Data Structures
+      Data Structures
 
 - [ ] Working with Common Data Structures, Not started, Theory
 
@@ -427,7 +427,7 @@ Variables and Strings
 - [ ] Data Structures Review, Not started, Review
 
 - [ ] Data Structures Quiz, Not started, Quiz
-    Algorithms
+      Algorithms
 
 - [ ] Introduction to Common Searching and Sorting Algorithms, Not started, Theory
 
@@ -446,7 +446,7 @@ Variables and Strings
 - [ ] Searching and Sorting Algorithms Review, Not started, Review
 
 - [ ] Searching and Sorting Algorithms Quiz, Not started, Quiz
-    Graphs and Trees
+      Graphs and Trees
 
 - [ ] Understanding Graphs and Trees, Not started, Theory
 
@@ -463,7 +463,7 @@ Variables and Strings
 - [ ] Graphs and Trees Review, Not started, Review
 
 - [ ] Graphs and Trees Quiz, Not started, Quiz
-    Dynamic Programming
+      Dynamic Programming
 
 - [ ] Understanding Dynamic Programming, Not started, Theory
 
@@ -474,7 +474,7 @@ Variables and Strings
 - [ ] Dynamic Programming Review, Not started, Review
 
 - [ ] Dynamic Programming Quiz, Not started, Quiz
-    Functional Programming
+      Functional Programming
 
 - [ ] Understanding Functional Programming, Not started, Theory
 
@@ -487,7 +487,7 @@ Variables and Strings
 - [ ] JavaScript Functional Programming Review, Not started, Review
 
 - [ ] JavaScript Functional Programming Quiz, Not started, Quiz
-    Asynchronous JavaScript
+      Asynchronous JavaScript
 
 - [ ] Understanding Asynchronous Programming, Not started, Theory
 
@@ -498,12 +498,12 @@ Variables and Strings
 - [ ] Asynchronous JavaScript Review, Not started, Review
 
 - [ ] Asynchronous JavaScript Quiz, Not started, Quiz
-    Build a Weather App, Not started, Certification Project  
-    JavaScript Review, Not started, Review
+      Build a Weather App, Not started, Certification Project  
+       JavaScript Review, Not started, Review
 
 Exam
 
-# Curriculum  [https://javascript.info/](https://javascript.info/)
+# Curriculum [https://javascript.info/](https://javascript.info/)
 
 ## The JavaScript language
 
@@ -808,7 +808,7 @@ Regular expressions
 - [ ] Word boundary: \b
 - [ ] Escaping, special characters
 - [ ] Sets and ranges [...]
-- [ ] Quantifiers +, *, ? and {n}
+- [ ] Quantifiers +, \*, ? and {n}
 - [ ] Greedy and lazy quantifiers
 - [ ] Capturing groups
 - [ ] Backreferences in pattern: \N and \k
