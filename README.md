@@ -118,9 +118,9 @@ Variables and Strings
 
 - [x] Build a Shopping List, Completed, Workshop
 
-- [x] Build a Lunch Picker Program, Complted, Lab
+- [x] Build a Lunch Picker Program, Completed, Lab
 
-- [ ] Build a Golf Score Translator, Not started, Lab
+- [x] Build a Golf Score Translator, Completed, Lab
 
 - [ ] Working with Common Array Methods, Not started, Theory
 
