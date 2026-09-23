@@ -122,11 +122,11 @@ Variables and Strings
 
 - [x] Build a Golf Score Translator, Completed, Lab
 
-- [ ] Working with Common Array Methods, Not started, Theory
+- [x] Working with Common Array Methods, Completed, Theory
 
-- [ ] JavaScript Arrays Review, Not started, Review
+- [x] JavaScript Arrays Review, Completed, Review
 
-- [ ] JavaScript Arrays Quiz, Not started, Quiz
+- [x] JavaScript Arrays Quiz, Completed, Quiz
       Objects,
 
 - [ ] Introduction to JavaScript Objects and Their Properties, Not started, Theory
@@ -558,8 +558,8 @@ Data types
 - [ ] Methods of primitives
 - [x] Numbers
 - [x] Strings
-- [ ] Arrays
-- [ ] Array methods
+- [x] Arrays
+- [x] Array methods
 - [ ] Iterables
 - [ ] Map and Set
 - [ ] WeakMap and WeakSet
