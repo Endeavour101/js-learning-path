@@ -129,7 +129,7 @@ Variables and Strings
 - [x] JavaScript Arrays Quiz, Completed, Quiz
       Objects,
 
-- [ ] Introduction to JavaScript Objects and Their Properties, Not started, Theory
+- [x] Introduction to JavaScript Objects and Their Properties, Not started, Theory
 
 - [ ] Build a Wildlife Tracker, Not started, Workshop
 
@@ -544,7 +544,7 @@ Code quality
 
 Objects: the basics
 
-- [ ] Objects
+- [x] Objects
 - [ ] Object references and copying
 - [ ] Garbage collection
 - [ ] Object methods, "this"
@@ -555,7 +555,7 @@ Objects: the basics
 
 Data types
 
-- [ ] Methods of primitives
+- [x] Methods of primitives
 - [x] Numbers
 - [x] Strings
 - [x] Arrays
