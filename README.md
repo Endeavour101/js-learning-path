@@ -129,9 +129,9 @@ Variables and Strings
 - [x] JavaScript Arrays Quiz, Completed, Quiz
       Objects,
 
-- [x] Introduction to JavaScript Objects and Their Properties, Not started, Theory
+- [x] Introduction to JavaScript Objects and Their Properties, Completed, Theory
 
-- [ ] Build a Wildlife Tracker, Not started, Workshop
+- [x] Build a Wildlife Tracker, Completed, Workshop
 
 - [ ] Build a Cargo Manifest Validator, Not started, Lab
 
@@ -545,7 +545,7 @@ Code quality
 Objects: the basics
 
 - [x] Objects
-- [ ] Object references and copying
+- [x] Object references and copying
 - [ ] Garbage collection
 - [ ] Object methods, "this"
 - [ ] Constructor, operator "new"

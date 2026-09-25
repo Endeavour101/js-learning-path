@@ -149,7 +149,7 @@ console.log(toObject(true));
 
 console.log(toObject([1, 2, 3])); */
 
-const original = [{ name: "Bob" }, { name: "Alice" }];
+/* const original = [{ name: "Bob" }, { name: "Alice" }];
 const copy = [...original]; // Creating a shallow copy
 
 // 1. Changing a top-level property (Replacing an item)
@@ -163,3 +163,127 @@ copy[0].name = "Zoe";
 console.log(original[0].name); // "Zoe" <-- OOPS! Both changed!
 console.log(original);
 console.log(copy);
+ */
+
+/* const person = {
+  name: "Alice",
+  sayHello() {
+    console.log("HELLO!");
+  },
+  contact: {
+    handy: 112233,
+    address: "Washington",
+  },
+}; */
+
+/* 
+// direct copy of an object
+
+const user = person;
+
+console.log(person);
+console.log(user);
+console.log("X=X=X=X=X=X");
+
+user.name = "Hans";
+
+console.log(person);
+console.log(user);
+console.log("X=X=X=X=X=X");
+
+user.contact.handy = 99;
+user.contact.address = "Los Angelos";
+
+console.log(person);
+console.log(user);
+ */
+
+/* const user = { ...person };
+
+console.log(person);
+console.log(user);
+console.log("X=X=X=X=X=X");
+
+user.name = "Hans";
+
+console.log(person);
+console.log(user);
+console.log("X=X=X=X=X=X");
+
+user.contact.handy = 99;
+user.contact.address = "Los Angelos";
+
+console.log(person);
+console.log(user);
+ */
+
+/* const user = { ...person };
+
+user.surname = "Cooper";
+console.log(user.surname);
+
+console.log(person);
+console.log(user);
+
+user.name = "Hans";
+
+console.log(person);
+console.log(user);
+console.log("X=X=X=X=X=X");
+
+user.contact.handy = 99;
+user.contact.address = "Los Angelos";
+
+console.log(person);
+console.log(user);
+ */
+
+/* const user = { ...person };
+
+user.contact = { region: "SW" };
+console.log(user.contact.handy);
+
+console.log(person);
+console.log(user);
+
+user.name = "Hans";
+
+console.log(person);
+console.log(user);
+console.log("X=X=X=X=X=X");
+
+person.contact.region = "NE";
+
+console.log(person);
+console.log(user);
+ */
+
+/* const user = structuredClone(person);
+
+console.log(person);
+console.log(user);
+
+console.log("X=X=X=X=X=X");
+
+user.contact.handy = 4444;
+
+console.log(person);
+console.log(user);
+ */
+
+const person = {
+  name: "Alice",
+  sayHello() {
+    console.log("HELLO!");
+  },
+  sayGoodbye() {
+    console.log("GOODBYE!");
+  },
+  contact: {
+    handy: 112233,
+    address: "Washington",
+  },
+};
+
+person.sayHello();
+person.sayGoodbye();
