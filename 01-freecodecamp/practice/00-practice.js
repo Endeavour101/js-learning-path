@@ -1,131 +1,50 @@
-/* const person = {
-  name: "Alice",
-  sayHello() {
-    console.log("HELLO!");
-  },
-  sayGoodbye() {
-    console.log("GOODBYE!");
-  },
-  contact: {
-    handy: 112233,
-    address: "Washington",
-  },
+let validateManifest = (manifest) => {
+  const returnObject = {};
+
+  if (manifest.containerId === undefined || manifest.containerId === null) {
+    returnObject.containerId = "Missing";
+  } else if (
+    !isFinite(manifest.containerId) ||
+    manifest.containerId <= 0 ||
+    !Number.isInteger(manifest.containerId)
+  ) {
+    returnObject.containerId = "Invalid";
+  }
+
+  if (manifest.weight === undefined || manifest.weight === null) {
+    returnObject.weight = "Missing";
+  } else if (!isFinite(manifest.weight) || manifest.weight <= 0) {
+    returnObject.weight = "Invalid";
+  }
+
+  if (
+    manifest.destination === undefined ||
+    manifest.destination === null ||
+    (typeof manifest.destination === "string" &&
+      manifest.destination.trim() === "")
+  ) {
+    returnObject.destination = "Missing";
+  } else if (typeof manifest.destination !== "string") {
+    returnObject.destination = "Invalid";
+  }
+
+  if (
+    manifest.unit === undefined ||
+    manifest.unit === null ||
+    (typeof manifest.unit === "string" && manifest.unit.trim() === "")
+  ) {
+    returnObject.unit = "Missing";
+  } else if (typeof manifest.unit !== "string") {
+    returnObject.unit = "Invalid";
+  } else if (manifest.unit !== "lb" && manifest.unit !== "kg") {
+    returnObject.unit = "Invalid";
+  }
+
+  if (manifest.hazmat === undefined || manifest.hazmat === null) {
+    returnObject.hazmat = "Missing";
+  } else if (typeof manifest.hazmat !== "boolean") {
+    returnObject.hazmat = "Invalid";
+  }
+
+  return returnObject;
 };
-
-person.sayHello();
-person.sayGoodbye(); */
-
-/* 
-// direct copy of an object
-
-const user = person;
-
-console.log(person);
-console.log(user);
-console.log("X=X=X=X=X=X");
-
-user.name = "Hans";
-
-console.log(person);
-console.log(user);
-console.log("X=X=X=X=X=X");
-
-user.contact.handy = 99;
-user.contact.address = "Los Angelos";
-
-console.log(person);
-console.log(user);
- */
-
-/* const user = { ...person };
-
-console.log(person);
-console.log(user);
-console.log("X=X=X=X=X=X");
-
-user.name = "Hans";
-
-console.log(person);
-console.log(user);
-console.log("X=X=X=X=X=X");
-
-user.contact.handy = 99;
-user.contact.address = "Los Angelos";
-
-console.log(person);
-console.log(user);
- */
-
-/* const user = { ...person };
-
-user.surname = "Cooper";
-console.log(user.surname);
-
-console.log(person);
-console.log(user);
-
-user.name = "Hans";
-
-console.log(person);
-console.log(user);
-console.log("X=X=X=X=X=X");
-
-user.contact.handy = 99;
-user.contact.address = "Los Angelos";
-
-console.log(person);
-console.log(user);
- */
-
-/* const user = { ...person };
-
-user.contact = { region: "SW" };
-console.log(user.contact.handy);
-
-console.log(person);
-console.log(user);
-
-user.name = "Hans";
-
-console.log(person);
-console.log(user);
-console.log("X=X=X=X=X=X");
-
-person.contact.region = "NE";
-
-console.log(person);
-console.log(user);
- */
-
-/* const user = structuredClone(person);
-
-console.log(person);
-console.log(user);
-
-console.log("X=X=X=X=X=X");
-
-user.contact.handy = 4444;
-
-console.log(person);
-console.log(user);
- */
-
-const person = {
-  name: "Alice",
-  sayHello() {
-    console.log("HELLO!");
-  },
-  sayGoodbye() {
-    console.log("GOODBYE!");
-  },
-  contact: {
-    handy: 112233,
-    address: "Washington",
-  },
-};
-
-person.friend = "AA";
-
-person.sayHello();
-person.sayGoodbye();
-console.log(person);

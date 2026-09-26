@@ -133,7 +133,7 @@ Variables and Strings
 
 - [x] Build a Wildlife Tracker, Completed, Workshop
 
-- [ ] Build a Cargo Manifest Validator, Not started, Lab
+- [x] Build a Cargo Manifest Validator, Completed, Lab
 
 - [ ] Working with JSON, Not started, Theory
 
