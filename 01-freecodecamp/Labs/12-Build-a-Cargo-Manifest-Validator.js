@@ -22,8 +22,8 @@ let validateManifest = (manifest) => {
   } else if (
     manifest.containerId === null ||
     !isFinite(manifest.containerId) ||
-    manifest.containerId <= 0 ||
-    !Number.isInteger(manifest.containerId)
+    !Number.isInteger(manifest.containerId) ||
+    manifest.containerId <= 0
   ) {
     returnObject.containerId = "Invalid";
   }

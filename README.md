@@ -135,11 +135,11 @@ Variables and Strings
 
 - [x] Build a Cargo Manifest Validator, Completed, Lab
 
-- [ ] Working with JSON, Not started, Theory
+- [x] Working with JSON, Completed, Theory
 
-- [ ] Working with Optional Chaining and Object Destructuring, Not started, Theory
+- [x] Working with Optional Chaining and Object Destructuring, Completed, Theory
 
-- [ ] Build a Recipe Tracker, Not started, Workshop
+- [x] Build a Recipe Tracker, Completed, Workshop
 
 - [ ] Build a Device Loan Ledger, Not started, Lab
 
@@ -566,7 +566,7 @@ Data types
 - [ ] Object.keys, values, entries
 - [ ] Destructuring assignment
 - [ ] Date and time
-- [ ] JSON methods, toJSON
+- [x] JSON methods, toJSON
 
 Advanced working with functions
 

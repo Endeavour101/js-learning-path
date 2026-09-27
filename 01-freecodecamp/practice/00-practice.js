@@ -1,50 +1,107 @@
-let validateManifest = (manifest) => {
-  const returnObject = {};
-
-  if (manifest.containerId === undefined || manifest.containerId === null) {
-    returnObject.containerId = "Missing";
-  } else if (
-    !isFinite(manifest.containerId) ||
-    manifest.containerId <= 0 ||
-    !Number.isInteger(manifest.containerId)
-  ) {
-    returnObject.containerId = "Invalid";
-  }
-
-  if (manifest.weight === undefined || manifest.weight === null) {
-    returnObject.weight = "Missing";
-  } else if (!isFinite(manifest.weight) || manifest.weight <= 0) {
-    returnObject.weight = "Invalid";
-  }
-
-  if (
-    manifest.destination === undefined ||
-    manifest.destination === null ||
-    (typeof manifest.destination === "string" &&
-      manifest.destination.trim() === "")
-  ) {
-    returnObject.destination = "Missing";
-  } else if (typeof manifest.destination !== "string") {
-    returnObject.destination = "Invalid";
-  }
-
-  if (
-    manifest.unit === undefined ||
-    manifest.unit === null ||
-    (typeof manifest.unit === "string" && manifest.unit.trim() === "")
-  ) {
-    returnObject.unit = "Missing";
-  } else if (typeof manifest.unit !== "string") {
-    returnObject.unit = "Invalid";
-  } else if (manifest.unit !== "lb" && manifest.unit !== "kg") {
-    returnObject.unit = "Invalid";
-  }
-
-  if (manifest.hazmat === undefined || manifest.hazmat === null) {
-    returnObject.hazmat = "Missing";
-  } else if (typeof manifest.hazmat !== "boolean") {
-    returnObject.hazmat = "Invalid";
-  }
-
-  return returnObject;
+/* const user = {
+  name: "John",
+  profile: {
+    email: "john@example.com",
+    address: {
+      street: "123 Main St",
+      city: "Somewhere",
+    },
+  },
 };
+
+console.log(user?.city?.house); */
+
+/* const person = {
+  name: "Alice",
+  age: 30,
+};
+
+console.log(person.name); // "Alice"
+console.log(person.job); // undefined
+console.log(person.address.street);
+ */
+
+/* const person = { name: "Alice", age: 30, city: "New York" };
+
+const { name, age } = person;
+
+console.log(name); // Alice
+console.log(age); // 30 */
+
+/* const user = {
+  name: "Amela",
+  surname: {
+    familySurname: "Kosor",
+    nickname: "Sombor",
+  },
+  age: 29,
+  points: 4,
+};
+
+const {
+  surname: { familySurname },
+  points: _userPoints,
+  country = "Unknown",
+} = user;
+
+console.log(familySurname);
+console.log(_userPoints);
+console.log(country);
+ */
+
+/* let name = "Alma";
+let age = 33;
+
+const user = { name, age };
+
+let request = (name, age) => {
+  return { name, age };
+};
+
+console.log(request(name, age));
+ */
+
+const recipes = [];
+
+const recipe1 = {
+  name: "Spaghetti Carbonara",
+  ingredients: ["spaghetti", "Parmesan cheese", "pancetta", "black pepper"],
+  cookingTime: 22,
+  totalIngredients: null,
+  difficultyLevel: "",
+};
+
+const recipe2 = {
+  name: "Chicken Curry",
+  ingredients: [
+    "chicken breast",
+    "coconut milk",
+    "curry powder",
+    "onion",
+    "garlic",
+  ],
+  cookingTime: 42,
+  totalIngredients: null,
+  difficultyLevel: "",
+};
+
+const recipe3 = {
+  name: "Vegetable Stir Fry",
+  ingredients: ["broccoli", "carrot", "bell pepper"],
+  cookingTime: 15,
+  totalIngredients: null,
+  difficultyLevel: "",
+};
+
+recipes.push(recipe1, recipe2, recipe3);
+
+function getTotalIngredients(arrIngredients) {
+  let totalNumber;
+  totalNumber =
+    arrIngredients[0].ingredients.length +
+    arrIngredients[1].ingredients.length +
+    arrIngredients[2].ingredients.length;
+  return totalNumber;
+}
+console.log(recipes);
+console.log(getTotalIngredients(recipes));
