@@ -141,7 +141,7 @@ Variables and Strings
 
 - [x] Build a Recipe Tracker, Completed, Workshop
 
-- [ ] Build a Device Loan Ledger, Not started, Lab
+- [x] Build a Device Loan Ledger, Completed, Lab
 
 - [ ] Build a Quiz Game, Not started, Lab
 
