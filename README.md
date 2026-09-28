@@ -143,7 +143,7 @@ Variables and Strings
 
 - [x] Build a Device Loan Ledger, Completed, Lab
 
-- [ ] Build a Quiz Game, Not started, Lab
+- [x] Build a Quiz Game, Completed, Lab
 
 - [ ] Build a Record Collection, Not started, Lab
 
