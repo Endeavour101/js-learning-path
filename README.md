@@ -145,7 +145,7 @@ Variables and Strings
 
 - [x] Build a Quiz Game, Completed, Lab
 
-- [ ] Build a Record Collection, Not started, Lab
+- [x] Build a Record Collection, Completed, Lab
 
 - [ ] JavaScript Objects Review, Not started, Review
 
