@@ -146,6 +146,7 @@ Variables and Strings
 - [x] Build a Quiz Game, Completed, Lab
 
 - [x] Build a Record Collection, Completed, Lab
+- [x] Build an Artifact Provenance Auditor, Completed, Workshop
 
 - [ ] JavaScript Objects Review, Not started, Review
 
