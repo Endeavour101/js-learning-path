@@ -148,9 +148,9 @@ Variables and Strings
 - [x] Build a Record Collection, Completed, Lab
 - [x] Build an Artifact Provenance Auditor, Completed, Workshop
 
-- [ ] JavaScript Objects Review, Not started, Review
+- [x] JavaScript Objects Review, Completed, Review
 
-- [ ] JavaScript Objects Quiz, Not started, Quiz
+- [x] JavaScript Objects Quiz, Completed, Quiz
       Loops
 
 - [ ] Working with Loops, Not started, Theory
