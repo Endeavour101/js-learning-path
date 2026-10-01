@@ -157,6 +157,8 @@ Variables and Strings
 
 - [x] Build a Word Counter, Completed, Workshop
 
+- [x] Build a Factorial Calculator, Completed, Workshop
+
 - [ ] Build a Sentence Analyzer, Not started, Workshop
 
 - [ ] Build a Traffic Light Sequencer, Not started, Lab
