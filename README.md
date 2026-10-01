@@ -150,14 +150,15 @@ Variables and Strings
 
 - [x] JavaScript Objects Review, Completed, Review
 
-- [x] JavaScript Objects Quiz, Completed, Quiz
-      Loops
+- [x] JavaScript Objects Quiz, Completed, Quiz Loops
 
 - [x] Working with Loops, Completed, Theory
 
 - [x] Build a Word Counter, Completed, Workshop
 
 - [x] Build a Factorial Calculator, Completed, Workshop
+
+- [x] Build a String Repeating Function, Completed, Lab
 
 - [ ] Build a Sentence Analyzer, Not started, Workshop
 
