@@ -153,9 +153,9 @@ Variables and Strings
 - [x] JavaScript Objects Quiz, Completed, Quiz
       Loops
 
-- [ ] Working with Loops, Not started, Theory
+- [x] Working with Loops, Completed, Theory
 
-- [ ] Build a Word Counter, Not started, Workshop
+- [x] Build a Word Counter, Completed, Workshop
 
 - [ ] Build a Sentence Analyzer, Not started, Workshop
 
