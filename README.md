@@ -156,11 +156,11 @@ Variables and Strings
 
 - [x] Build a Word Counter, Completed, Workshop
 
-- [x] Build a Factorial Calculator, Completed, Workshop
+- [x] Build a Factorial Calculator, Completed, Lab
 
 - [x] Build a String Repeating Function, Completed, Lab
 
-- [ ] Build a Sentence Analyzer, Not started, Workshop
+- [x] Build a Sentence Analyzer, Completed, Workshop
 
 - [ ] Build a Traffic Light Sequencer, Not started, Lab
 
