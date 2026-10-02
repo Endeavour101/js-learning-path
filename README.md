@@ -166,6 +166,8 @@ Variables and Strings
 
 - [x] Implement the Mutations Algorithm, Completed, Lab
 
+- [x] Build a Missing Letter Detector, Completed, Lab
+
 - [ ] Build a Traffic Light Sequencer, Not started, Lab
 
 - [ ] Build a Space Mission Roster, Not started, Workshop
