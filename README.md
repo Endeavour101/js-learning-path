@@ -164,6 +164,8 @@ Variables and Strings
 
 - [x] Build a Longest Word Finder App, Completed, Lab
 
+- [x] Implement the Mutations Algorithm, Completed, Lab
+
 - [ ] Build a Traffic Light Sequencer, Not started, Lab
 
 - [ ] Build a Space Mission Roster, Not started, Workshop
