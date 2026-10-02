@@ -162,6 +162,8 @@ Variables and Strings
 
 - [x] Build a Sentence Analyzer, Completed, Workshop
 
+- [x] Build a Longest Word Finder App, Completed, Lab
+
 - [ ] Build a Traffic Light Sequencer, Not started, Lab
 
 - [ ] Build a Space Mission Roster, Not started, Workshop
