@@ -159,9 +159,9 @@ Variables and Strings
 
 - [x] Build a Profile Lookup, Completed, Lab
 
-- [ ] Build a Traffic Light Sequencer, Not started, Lab
+- [x] Build a Space Mission Roster, Completed, Workshop
 
-- [ ] Build a Space Mission Roster, Not started, Workshop
+- [ ] Build a Traffic Light Sequencer, Not started, Lab
 
 - [ ] Build a Heritage Library Catalog, Not started, Workshop
 
