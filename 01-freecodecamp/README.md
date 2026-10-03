@@ -130,11 +130,10 @@ Variables and Strings
 
 - [x] Build a Recipe Tracker, Completed, Workshop
 
-- [x] Build a Device Loan Ledger, Completed, Lab
-
 - [x] Build a Quiz Game, Completed, Lab
 
 - [x] Build a Record Collection, Completed, Lab
+
 - [x] Build an Artifact Provenance Auditor, Completed, Workshop
 
 - [x] JavaScript Objects Review, Completed, Review
@@ -161,27 +160,17 @@ Variables and Strings
 
 - [x] Build a Space Mission Roster, Completed, Workshop
 
-- [ ] Build a Traffic Light Sequencer, Not started, Lab
+- [x] Implement the Chunky Monkey Algorithm, Completed, Lab
+
+- [x] Build a Device Loan Ledger, Completed, Lab
 
 - [ ] Build a Heritage Library Catalog, Not started, Workshop
 
-- [ ] Build a Longest Word Finder App, Not started, Lab
-
-- [ ] Build a Factorial Calculator , Not started, Lab
-
-- [ ] Implement the Mutations Algorithm, Not started, Lab
-
-- [ ] Implement the Chunky Monkey Algorithm, Not started, Lab
-
-- [ ] Build a Profile Lookup, Not started, Lab
-
-- [ ] Build a String Repeating Function, Not started, Lab
+- [ ] Build a Smart Pantry Restocker, Not started, Lab
 
 - [ ] Build a Festival Crowd Flow Simulator, Not started, Workshop
 
-- [ ] Build a Missing Letter Detector, Not started, Lab
-
-- [ ] Build a Smart Pantry Restocker, Not started, Lab
+- [ ] Build a Traffic Light Sequencer, Not started, Lab
 
 - [ ] Build a Proofreading Tool, Not started, Lab
 
