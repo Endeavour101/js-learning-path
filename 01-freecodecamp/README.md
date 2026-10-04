@@ -164,7 +164,7 @@ Variables and Strings
 
 - [x] Build a Device Loan Ledger, Completed, Lab
 
-- [ ] Build a Heritage Library Catalog, Not started, Workshop
+- [x] Build a Heritage Library Catalog, Completed, Workshop
 
 - [ ] Build a Smart Pantry Restocker, Not started, Lab
 
