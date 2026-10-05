@@ -166,7 +166,7 @@ Variables and Strings
 
 - [x] Build a Heritage Library Catalog, Completed, Workshop
 
-- [ ] Build a Smart Pantry Restocker, Not started, Lab
+- [x] Build a Smart Pantry Restocker, Completed, Lab
 
 - [ ] Build a Festival Crowd Flow Simulator, Not started, Workshop
 
