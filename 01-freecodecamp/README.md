@@ -168,7 +168,7 @@ Variables and Strings
 
 - [x] Build a Smart Pantry Restocker, Completed, Lab
 
-- [ ] Build a Festival Crowd Flow Simulator, Not started, Workshop
+- [x] Build a Festival Crowd Flow Simulator, Completed, Workshop
 
 - [ ] Build a Traffic Light Sequencer, Not started, Lab
 
