@@ -170,7 +170,7 @@ Variables and Strings
 
 - [x] Build a Festival Crowd Flow Simulator, Completed, Workshop
 
-- [ ] Build a Traffic Light Sequencer, Not started, Lab
+- [x] Build a Traffic Light Sequencer, Completed, Lab
 
 - [ ] Build a Proofreading Tool, Not started, Lab
 
