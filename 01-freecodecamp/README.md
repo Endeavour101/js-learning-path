@@ -172,7 +172,7 @@ Variables and Strings
 
 - [x] Build a Traffic Light Sequencer, Completed, Lab
 
-- [ ] Build a Proofreading Tool, Not started, Lab
+- [x] Build a Proofreading Tool, Completed, Lab
 
 - [ ] JavaScript Loops Review, Not started, Review
 
