@@ -174,9 +174,10 @@ Variables and Strings
 
 - [x] Build a Proofreading Tool, Completed, Lab
 
-- [ ] JavaScript Loops Review, Not started, Review
+- [x] JavaScript Loops Review, Completed, Review
 
-- [ ] JavaScript Loops Quiz, Not started, Quiz
+- [x] JavaScript Loops Quiz, Completed, Quiz
+
       JavaScript Fundamentals Review
 
 - [ ] Working with Types and Objects, Not started, Theory
