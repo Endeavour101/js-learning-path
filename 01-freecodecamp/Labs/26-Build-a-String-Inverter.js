@@ -8,3 +8,4 @@ function reverseString(stringToReverse) {
 }
 
 console.log(reverseString("Greetings from Earth"));
+console.log(reverseString("htraE morf sgniteerG"));
