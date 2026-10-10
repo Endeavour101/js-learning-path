@@ -21,7 +21,7 @@ JavaScript Fundamentals
 - [x] Conditional branching: if, '?'
 - [x] Logical operators
 - [x] Nullish coalescing operator '??'
-- [ ] Loops: while and for
+- [x] Loops: while and for
 - [x] The "switch" statement
 - [x] Functions
 - [x] Function expressions
@@ -30,10 +30,10 @@ JavaScript Fundamentals
 
 Code quality
 
-- [ ] Debugging in the browser
-- [ ] Coding Style
-- [ ] Comments
-- [ ] Ninja code
+- [x] Debugging in the browser
+- [x] Coding Style
+- [x] Comments
+- [x] Ninja code
 - [ ] Automated testing with Mocha
 - [ ] Polyfills and transpilers
 
@@ -44,7 +44,7 @@ Objects: the basics
 - [x] Garbage collection
 - [ ] Object methods, "this"
 - [ ] Constructor, operator "new"
-- [ ] Optional chaining '?.'
+- [x] Optional chaining '?.'
 - [ ] Symbol type
 - [ ] Object to primitive conversion
 

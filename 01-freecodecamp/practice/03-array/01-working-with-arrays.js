@@ -66,7 +66,7 @@ console.log(cars.at(-1));
 
  */
 
-const text = "abcdefghijklmnopqrstuvwxyz";
+/* const text = "abcdefghijklmnopqrstuvwxyz";
 
 const textArray = text.split("");
 
@@ -78,7 +78,7 @@ console.log(reversedTextArray);
 
 const joinedReversedTextArray = reversedTextArray.join("");
 
-console.log(joinedReversedTextArray);
+console.log(joinedReversedTextArray); */
 
 /* let replyOfWho = prompt("Who's there?");
 
@@ -206,10 +206,28 @@ console.log(truncateString ("Absolutely Longer", 2)); */
 console.log(confirmEnding( "Abstraction", "action" )); */
 
 //destructuring
-let results = ["a", "b", "c"];
+/* let results = ["a", "b", "c"];
 
 const [name, age, address] = results;
 
 console.log(name);
 console.log(age);
-console.log(address);
+console.log(address); */
+
+/* function largestOfAllModern(arrayOfArrays) {
+  return arrayOfArrays.map((subArray) => Math.max(...subArray));
+}
+const input = [
+  [4, 5, 1, 3],
+  [13, 27, 18, 26],
+  [32, 35, 37, 39],
+];
+console.log(largestOfAllModern(input));
+// This will output: [ 5, 27, 39 ] */
+
+function useSpreadOperator(arrayOfArrays) {
+  console.log(...arrayOfArrays);
+}
+const input = [4, 5, 1, 3];
+useSpreadOperator(input);
+// This will output:

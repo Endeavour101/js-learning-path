@@ -180,15 +180,15 @@ Variables and Strings
 
       JavaScript Fundamentals Review
 
-- [ ] Working with Types and Objects, Not started, Theory
+- [x] Working with Types and Objects, Completed, Theory
 
-- [ ] Working with Arrays, Variables, and Naming Practices, Not started, Theory
+- [x] Working with Arrays, Variables, and Naming Practices, Completed, Theory
 
-- [ ] Working with Code Quality and Execution Concepts, Not started, Theory
+- [x] Working with Code Quality and Execution Concepts, Completed, Theory
 
-- [ ] Build a String Inverter, Not started, Lab
+- [x] Build a String Inverter, Completed, Lab
 
-- [ ] Build the Largest Number Finder, Not started, Lab
+- [x] Build the Largest Number Finder, Completed, Lab
 
 - [ ] Build a First Element Finder, Not started, Lab
 
