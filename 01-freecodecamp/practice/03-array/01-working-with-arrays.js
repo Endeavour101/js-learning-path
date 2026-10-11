@@ -225,9 +225,36 @@ const input = [
 console.log(largestOfAllModern(input));
 // This will output: [ 5, 27, 39 ] */
 
-function useSpreadOperator(arrayOfArrays) {
+/* function useSpreadOperator(arrayOfArrays) {
   console.log(...arrayOfArrays);
 }
 const input = [4, 5, 1, 3];
 useSpreadOperator(input);
-// This will output:
+// This will output: */
+
+/* let arrayLike = {
+  0: "Hello",
+  1: "World",
+  length: 2,
+};
+
+let arr = Array.from(arrayLike); // (*)
+console.log(arr);
+console.log(arr.pop()); // World (method works)
+console.log(arr); */
+
+/* // Generate numbers from 1 to 5
+const numbers = Array.from({ length: 5 }, (_, index) => (index += 5));
+console.log(numbers);
+
+// Result: 1, 2, 3, 4, 5
+ */
+
+/* let userData = ["John", "McNrow"];
+let [firstName, secondName] = userData;
+console.log(firstName);
+console.log(secondName); */
+
+let [firstName, surname] = "John Smith".split(" ");
+console.log(firstName); // John
+console.log(surname); // Smith

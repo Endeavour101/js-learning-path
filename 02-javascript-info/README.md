@@ -55,11 +55,11 @@ Data types
 - [x] Strings
 - [x] Arrays
 - [x] Array methods
-- [ ] Iterables
+- [x] Iterables
 - [ ] Map and Set
 - [ ] WeakMap and WeakSet
 - [ ] Object.keys, values, entries
-- [ ] Destructuring assignment
+- [x] Destructuring assignment
 - [ ] Date and time
 - [x] JSON methods, toJSON
 

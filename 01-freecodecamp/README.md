@@ -190,7 +190,7 @@ Variables and Strings
 
 - [x] Build the Largest Number Finder, Completed, Lab
 
-- [ ] Build a First Element Finder, Not started, Lab
+- [x] Build a First Element Finder, Completed, Lab
 
 - [ ] Implement the Slice and Splice Algorithm, Not started, Lab
 

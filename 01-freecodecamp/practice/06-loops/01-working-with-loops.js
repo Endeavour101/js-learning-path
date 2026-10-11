@@ -1,4 +1,4 @@
-const words = ["aaa", "bbb", "ccc", "ddd", "eee", "fff", "bbb", "ccc", "ddd"];
+/* const words = ["aaa", "bbb", "ccc", "ddd", "eee", "fff", "bbb", "ccc", "ddd"];
 
 let phraseLength = 3;
 function findRepeatedPhrases(words, phraseLength) {
@@ -23,3 +23,14 @@ function findRepeatedPhrases(words, phraseLength) {
 }
 
 console.log(findRepeatedPhrases(words, phraseLength));
+ */
+
+let user = {
+  name: "John",
+  age: 30,
+};
+
+// loop over the keys-and-values
+for (let [key, value] of Object.entries(user)) {
+  console.log(`${key}:${value}`); // name:John, then age:30
+}
