@@ -192,7 +192,7 @@ Variables and Strings
 
 - [x] Build a First Element Finder, Completed, Lab
 
-- [ ] Implement the Slice and Splice Algorithm, Not started, Lab
+- [x] Implement the Slice and Splice Algorithm, Completed, Lab
 
 - [ ] Build a Pyramid Generator, Not started, Lab
 
