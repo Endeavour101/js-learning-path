@@ -196,7 +196,7 @@ Variables and Strings
 
 - [x] Build a Pyramid Generator, Completed, Lab
 
-- [ ] Build a Gradebook App, Not started, Lab
+- [x] Build a Gradebook App, Completed, Lab
 
 - [ ] Restore a Coherent Narrative from an Array of Story Fragments, Not started, Lab
 
