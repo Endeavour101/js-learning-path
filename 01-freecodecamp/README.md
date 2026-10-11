@@ -194,7 +194,7 @@ Variables and Strings
 
 - [x] Implement the Slice and Splice Algorithm, Completed, Lab
 
-- [ ] Build a Pyramid Generator, Not started, Lab
+- [x] Build a Pyramid Generator, Completed, Lab
 
 - [ ] Build a Gradebook App, Not started, Lab
 
