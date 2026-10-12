@@ -204,7 +204,7 @@ Variables and Strings
 
 - [x] Build a Title Case Converter, Completed, Lab
 
-- [ ] Implement a Falsy Remover, Not started, Lab
+- [x] Implement a Falsy Remover, Completed, Lab
 
 - [ ] Build an Inventory Management Program, Not started, Lab
 
