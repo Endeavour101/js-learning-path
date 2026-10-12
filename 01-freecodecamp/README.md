@@ -200,9 +200,9 @@ Variables and Strings
 
 - [x] Restore a Coherent Narrative from an Array of Story Fragments, Completed, Lab
 
-- [ ] The var Keyword and Hoisting, Not started, Theory
+- [x] The var Keyword and Hoisting, Completed, Theory
 
-- [ ] Build a Title Case Converter, Not started, Lab
+- [x] Build a Title Case Converter, Completed, Lab
 
 - [ ] Implement a Falsy Remover, Not started, Lab
 
