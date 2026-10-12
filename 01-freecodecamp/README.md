@@ -198,7 +198,7 @@ Variables and Strings
 
 - [x] Build a Gradebook App, Completed, Lab
 
-- [ ] Restore a Coherent Narrative from an Array of Story Fragments, Not started, Lab
+- [x] Restore a Coherent Narrative from an Array of Story Fragments, Completed, Lab
 
 - [ ] The var Keyword and Hoisting, Not started, Theory
 
