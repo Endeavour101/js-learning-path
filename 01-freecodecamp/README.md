@@ -206,7 +206,7 @@ Variables and Strings
 
 - [x] Implement a Falsy Remover, Completed, Lab
 
-- [ ] Build an Inventory Management Program, Not started, Lab
+- [x] Build an Inventory Management Program, Completed, Lab
 
 - [ ] Understanding Modules, Imports, and Exports, Not started, Theory
 
