@@ -208,11 +208,11 @@ Variables and Strings
 
 - [x] Build an Inventory Management Program, Completed, Lab
 
-- [ ] Understanding Modules, Imports, and Exports, Not started, Theory
+- [x] Understanding Modules, Imports, and Exports, Completed, Theory
 
-- [ ] Working With the Arguments Object and Rest Parameters, Not started, Theory
+- [x] Working With the Arguments Object and Rest Parameters, Completed, Theory
 
-- [ ] Implement a Unique Sorted Union, Not started, Lab
+- [x] Implement a Unique Sorted Union, Completed, Lab
 
 - [ ] Build a Password Generator App, Not started, Lab
 
