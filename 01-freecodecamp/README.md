@@ -214,7 +214,7 @@ Variables and Strings
 
 - [x] Implement a Unique Sorted Union, Completed, Lab
 
-- [ ] Build a Password Generator App, Not started, Lab
+- [x] Build a Password Generator App, Completed, Lab
 
 - [ ] Design a Sum All Numbers Algorithm, Not started, Lab
 
