@@ -220,7 +220,7 @@ Variables and Strings
 
 - [x] Implement a DNA Pair Generator, Completed, Lab
 
-- [ ] Implement an HTML Entity Converter, Not started, Lab
+- [x] Implement an HTML Entity Converter, Completed, Lab
 
 - [ ] Build an Odd Fibonacci Sum Calculator, Not started, Lab
 
