@@ -216,7 +216,7 @@ Variables and Strings
 
 - [x] Build a Password Generator App, Completed, Lab
 
-- [ ] Design a Sum All Numbers Algorithm, Not started, Lab
+- [x] Design a Sum All Numbers Algorithm, Completed, Lab
 
 - [ ] Implement a DNA Pair Generator, Not started, Lab
 
