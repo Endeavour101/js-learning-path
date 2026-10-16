@@ -218,7 +218,7 @@ Variables and Strings
 
 - [x] Design a Sum All Numbers Algorithm, Completed, Lab
 
-- [ ] Implement a DNA Pair Generator, Not started, Lab
+- [x] Implement a DNA Pair Generator, Completed, Lab
 
 - [ ] Implement an HTML Entity Converter, Not started, Lab
 
