@@ -224,7 +224,7 @@ Variables and Strings
 
 - [x] Build an Odd Fibonacci Sum Calculator, Completed, Lab
 
-- [ ] Implement an Element Skipper, Not started, Lab
+- [x] Implement an Element Skipper, Completed, Lab
 
 - [ ] Build a Playlist Remix Engine, Not started, Lab
 
