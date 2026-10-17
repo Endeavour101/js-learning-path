@@ -226,7 +226,7 @@ Variables and Strings
 
 - [x] Implement an Element Skipper, Completed, Lab
 
-- [ ] Build a Playlist Remix Engine, Not started, Lab
+- [x] Build a Playlist Remix Engine, Completed, Lab
 
 - [ ] JavaScript Fundamentals Review, Not started, Review
 
