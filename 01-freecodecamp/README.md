@@ -228,9 +228,10 @@ Variables and Strings
 
 - [x] Build a Playlist Remix Engine, Completed, Lab
 
-- [ ] JavaScript Fundamentals Review, Not started, Review
+- [x] JavaScript Fundamentals Review, Not started, Review
 
-- [ ] JavaScript Fundamentals Quiz, Not started, Quiz
+- [x] JavaScript Fundamentals Quiz, Not started, Quiz
+
       Higher Order Functions and Callbacks
 
 - [ ] Working with Higher Order Functions and Callbacks, Not started, Theory
