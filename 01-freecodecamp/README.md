@@ -222,7 +222,7 @@ Variables and Strings
 
 - [x] Implement an HTML Entity Converter, Completed, Lab
 
-- [ ] Build an Odd Fibonacci Sum Calculator, Not started, Lab
+- [x] Build an Odd Fibonacci Sum Calculator, Completed, Lab
 
 - [ ] Implement an Element Skipper, Not started, Lab
 
