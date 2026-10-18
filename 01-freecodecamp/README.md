@@ -228,15 +228,15 @@ Variables and Strings
 
 - [x] Build a Playlist Remix Engine, Completed, Lab
 
-- [x] JavaScript Fundamentals Review, Not started, Review
+- [x] JavaScript Fundamentals Review, Completed, Review
 
-- [x] JavaScript Fundamentals Quiz, Not started, Quiz
+- [x] JavaScript Fundamentals Quiz, Completed, Quiz
 
       Higher Order Functions and Callbacks
 
-- [ ] Working with Higher Order Functions and Callbacks, Not started, Theory
+- [x] Working with Higher Order Functions and Callbacks, Completed, Theory
 
-- [ ] Build a Library Manager, Not started, Workshop
+- [x] Build a Library Manager, Completed, Workshop
 
 - [ ] Build a Book Organizer, Not started, Lab
 
