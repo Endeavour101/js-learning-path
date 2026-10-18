@@ -238,7 +238,7 @@ Variables and Strings
 
 - [x] Build a Library Manager, Completed, Workshop
 
-- [ ] Build a Book Organizer, Not started, Lab
+- [x] Build a Book Organizer, Completed, Lab
 
 - [ ] Implement a Sorted Index Finder, Not started, Lab
 
