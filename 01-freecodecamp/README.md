@@ -240,7 +240,7 @@ Variables and Strings
 
 - [x] Build a Book Organizer, Completed, Lab
 
-- [ ] Implement a Sorted Index Finder, Not started, Lab
+- [x] Implement a Sorted Index Finder, Completed, Lab
 
 - [ ] Build a Symmetric Difference Function, Not started, Lab
 

@@ -16,19 +16,26 @@ numbers.forEach((number, index, array) => {
   console.log(`Element ${number} is at index ${index} in array ${array}`);
 }); */
 
-function makeGreeter(greeting) {
-  return function (name) {
-    return `${greeting}, ${name}`;
-  };
+/* function greeting() {
+  console.log(`hello`);
 }
 
-let sayHello = makeGreeter("Hello");
-console.log(sayHello("Boris"));
-console.log(sayHello("X"));
-console.log(sayHello("Y"));
-console.log(sayHello("Z"));
-let sayGoodbye = makeGreeter("Goodbye");
-console.log(sayGoodbye("Bea"));
-console.log(sayGoodbye("A"));
-console.log(sayGoodbye("B"));
-console.log(sayGoodbye("C"));
+function makeGreeting(callback) {
+  console.log(`I am going to call hello...`);
+  callback();
+}
+
+makeGreeting(greeting); */
+
+function greeting(name, pin) {
+  return `hello from callback...${name} (PIN: ${pin})`;
+}
+
+function doHMI(name, callTheCallback) {
+  const PIN = "12345";
+  console.log(`do something...`);
+  let responcseFromCallback = callTheCallback(name, PIN);
+  return responcseFromCallback;
+}
+let finalMessage = doHMI("john", greeting);
+console.log(finalMessage);
