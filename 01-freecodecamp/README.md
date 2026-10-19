@@ -242,7 +242,7 @@ Variables and Strings
 
 - [x] Implement a Sorted Index Finder, Completed, Lab
 
-- [ ] Build a Symmetric Difference Function, Not started, Lab
+- [x] Build a Symmetric Difference Function, Completed, Lab
 
 - [ ] Implement a Value Remover Function, Not started, Lab
 

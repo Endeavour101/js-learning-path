@@ -27,7 +27,7 @@ function makeGreeting(callback) {
 
 makeGreeting(greeting); */
 
-function greeting(name, pin) {
+/* function greeting(name, pin) {
   return `hello from callback...${name} (PIN: ${pin})`;
 }
 
@@ -38,4 +38,50 @@ function doHMI(name, callTheCallback) {
   return responcseFromCallback;
 }
 let finalMessage = doHMI("john", greeting);
-console.log(finalMessage);
+console.log(finalMessage); */
+
+function renderFinalMessage(isClosed, code) {
+  if (isClosed === true) {
+    console.log(`Data channel is closing. Code:${code}`);
+  } else {
+    console.log(`Data channel is opening. Code:${code}`);
+  }
+}
+function handleDataChannel(inputMessage) {
+  let isClosed = inputMessage === "close";
+  let activationCode = 12345;
+  renderFinalMessage(isClosed, activationCode);
+}
+
+handleDataChannel("open");
+handleDataChannel("close");
+handleDataChannel("open");
+
+/* // 1. Two separate callback functions that handle messaging differently
+function logToConsole(isClosed, code) {
+  if (isClosed) {
+    console.log(`[CONSOLE] Channel is closing. Code: ${code}`);
+  } else {
+    console.log(`[CONSOLE] Channel is opening. Code: ${code}`);
+  }
+}
+
+function logAlert(isClosed, code) {
+  if (isClosed) {
+    console.log(`⚠️ ALERT: Channel SHUTDOWN initiated with code ${code}!`);
+  } else {
+    console.log(`🌐 ALERT: Channel ONLINE initiated with code ${code}!`);
+  }
+}
+
+// 2. The main handler engine. It accepts a CALLBACK function as its third parameter!
+function handleDataChannel(inputMessage, activationCode, callbackFunction) {
+  let isClosed = (inputMessage === "close");
+  
+  // Execute the callback function that was passed in!
+  callbackFunction(isClosed, activationCode);
+}
+
+// 3. Now you can choose HOW to handle the message dynamically!
+handleDataChannel("open", 12345, logToConsole); // Uses the console logger
+handleDataChannel("close", 99999, logAlert);    // Uses the alert logger */
