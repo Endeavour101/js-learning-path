@@ -244,7 +244,7 @@ Variables and Strings
 
 - [x] Build a Symmetric Difference Function, Completed, Lab
 
-- [ ] Implement a Value Remover Function, Not started, Lab
+- [x] Implement a Value Remover Function, Completed, Lab
 
 - [ ] Implement a Matching Object Filter, Not started, Lab
 
