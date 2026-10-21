@@ -248,7 +248,7 @@ Variables and Strings
 
 - [x] Implement a Matching Object Filter, Completed, Lab
 
-- [ ] Implement a Range-Based LCM Calculator, Not started, Lab
+- [x] Implement a Range-Based LCM Calculator, Completed, Lab
 
 - [ ] Create a Deep Flattening Tool, Not started, Lab
 
