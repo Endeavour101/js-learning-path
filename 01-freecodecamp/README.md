@@ -246,7 +246,7 @@ Variables and Strings
 
 - [x] Implement a Value Remover Function, Completed, Lab
 
-- [ ] Implement a Matching Object Filter, Not started, Lab
+- [x] Implement a Matching Object Filter, Completed, Lab
 
 - [ ] Implement a Range-Based LCM Calculator, Not started, Lab
 
