@@ -250,7 +250,7 @@ Variables and Strings
 
 - [x] Implement a Range-Based LCM Calculator, Completed, Lab
 
-- [ ] Create a Deep Flattening Tool, Not started, Lab
+- [x] Create a Deep Flattening Tool, Completed, Lab
 
 - [ ] Build an All-True Property Validator, Not started, Lab
 
