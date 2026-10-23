@@ -254,9 +254,10 @@ Variables and Strings
 
 - [x] Build an All-True Property Validator, Completed, Lab
 
-- [ ] JavaScript Higher Order Functions Review, Not started, Review
+- [x] JavaScript Higher Order Functions Review, Not started, Review
 
-- [ ] JavaScript Higher Order Functions Quiz, Not started, Quiz
+- [x] JavaScript Higher Order Functions Quiz, Not started, Quiz
+
       DOM Manipulation and Events
 
 - [ ] Working with the DOM, Click Events, and Web APIs, Not started, Theory
