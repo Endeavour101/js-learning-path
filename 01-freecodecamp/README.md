@@ -252,7 +252,7 @@ Variables and Strings
 
 - [x] Create a Deep Flattening Tool, Completed, Lab
 
-- [ ] Build an All-True Property Validator, Not started, Lab
+- [x] Build an All-True Property Validator, Completed, Lab
 
 - [ ] JavaScript Higher Order Functions Review, Not started, Review
 
