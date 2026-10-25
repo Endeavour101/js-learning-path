@@ -260,7 +260,7 @@ Variables and Strings
 
       DOM Manipulation and Events
 
-- [ ] Working with the DOM, Click Events, and Web APIs, Not started, Theory
+- [x] Working with the DOM, Click Events, and Web APIs, Not started, Theory
 
 - [ ] Build a Storytelling App, Not started, Workshop
 
