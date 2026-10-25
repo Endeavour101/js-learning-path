@@ -1,5 +1,5 @@
 function whatIsInAName(arrayOfObjects, sourceObject) {
-  const criteria = Object.entries(sourceObject); //array of arrays of ley-value pairs
+  const criteria = Object.entries(sourceObject); //array of arrays of key-value pairs
   const filtered = arrayOfObjects.filter((object) => {
     return criteria.every(([key, value]) => object[key] === value);
   });
