@@ -260,9 +260,9 @@ Variables and Strings
 
       DOM Manipulation and Events
 
-- [x] Working with the DOM, Click Events, and Web APIs, Not started, Theory
+- [x] Working with the DOM, Click Events, and Web APIs, Competed, Theory
 
-- [ ] Build a Storytelling App, Not started, Workshop
+- [x] Build a Storytelling App, Competed, Workshop
 
 - [ ] Build an Emoji Reactor, Not started, Workshop
 
