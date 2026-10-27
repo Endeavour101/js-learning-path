@@ -264,7 +264,7 @@ Variables and Strings
 
 - [x] Build a Storytelling App, Competed, Workshop
 
-- [ ] Build an Emoji Reactor, Not started, Workshop
+- [x] Build an Emoji Reactor, Competed, Workshop
 
 - [ ] Build a Favorite Icon Toggler, Not started, Lab
 
