@@ -266,7 +266,7 @@ Variables and Strings
 
 - [x] Build an Emoji Reactor, Competed, Workshop
 
-- [ ] Build a Favorite Icon Toggler, Not started, Lab
+- [x] Build a Favorite Icon Toggler, Completed, Lab
 
 - [ ] Understanding the Event Object and Event Delegation, Not started, Theory
 
