@@ -10,6 +10,8 @@ textArea.addEventListener("input", () => {
   counter.classList.toggle("over-the-limit", textArea.value.length === 50);
 });
 
+//both variants work, but the first one is compacter
+
 /* const textArea = document.getElementById("text-input");
 const counter = document.getElementById("char-count");
 
