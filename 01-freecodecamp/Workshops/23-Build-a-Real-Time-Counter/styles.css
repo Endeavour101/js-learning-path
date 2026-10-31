@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: sans-serif; /* Cleaner font for a modern look */
+}
+.main-style {
+  background-color: aqua;
+  /* 1. Make the main container fill the entire browser window */
+  min-height: 100vh;
+
+  /* 2. Center the title (and your future textarea) perfectly on the screen */
+  display: flex;
+  flex-direction: column; /* Stack items vertically */
+  justify-content: center; /* Center vertically */
+  align-items: center; /* Center horizontally */
+  gap: 20px; /* Adds neat spacing between elements */
+}
+.h1-style {
+  background-color: rgb(251, 255, 0);
+  padding: 10px 20px; /* Optional: Adds a little breathing room inside the yellow box */
+  margin: 0; /* Optional: Removes default header spacing */
+}
+.over-the-limit {
+  color: red;
+}

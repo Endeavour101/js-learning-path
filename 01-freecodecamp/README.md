@@ -268,11 +268,11 @@ Variables and Strings
 
 - [x] Build a Favorite Icon Toggler, Completed, Lab
 
-- [ ] Understanding the Event Object and Event Delegation, Not started, Theory
+- [x] Understanding the Event Object and Event Delegation, Completed, Theory
 
-- [ ] Build a Music Instrument Filter, Not started, Workshop
+- [x] Build a Music Instrument Filter, Completed, Workshop
 
-- [ ] Build a Real Time Counter, Not started, Lab
+- [x] Build a Real Time Counter, Completed, Lab
 
 - [ ] Build a Lightbox Viewer, Not started, Lab
 
