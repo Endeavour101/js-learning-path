@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+}
+
+.gallery {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.headline {
+  text-align: center; /* Centers only the text of this specific heading */
+  margin-top: 20px; /* Adds clean spacing from the top window border */
+  margin-bottom: 20px; /* Adds clean breathing room above your gallery rows */
+}
+
+.lightbox {
+  display: none; /* Hidden by default until .shown is added */
+  position: fixed; /* Places the preview window on top of everything else */
+  top: 0; /* Forces the element to start at the top-left corner */
+  left: 0; /* Forces the element to start at the top-left corner */
+  width: 100%; /* Spans across the full width of the screen */
+  height: 100%; /* Spans down the full height of the screen */
+  background-color: rgba(
+    30,
+    30,
+    30,
+    0.9
+  ); /* Dark semi-transparent background */
+
+  /* Centers the content inside the screen */
+  justify-content: center;
+  align-items: center;
+}
+
+.lightbox.shown {
+  display: flex;
+}
+
+/* Ensure the lightbox image scales beautifully */
+#lightbox-image {
+  max-width: 85%; /* Prevents the image from touching screen borders */
+  max-height: 85vh; /* Prevents overflowing tall images off-screen */
+  object-fit: contain; /* Sharp, aspect-ratio safe resizing */
+  box-shadow: 0px 40px 20px rgba(0, 0, 0, 0.5); /* Optional soft pop shadow */
+}
+
+#close-btn {
+  position: absolute; /* Breaks it out of standard document flow */
+  top: 25px; /* Distance from the very top edge */
+  right: 25px; /* Distance from the very right edge */
+  z-index: 10; /* Ensures it stays stacked on top of the image */
+
+  /* Visual styling to match your screenshot */
+  font-size: 2.5rem; /* Makes the &times; symbol large and readable */
+  color: #ffffff; /* Clean white icon color */
+  background: none; /* Strips default button backgrounds */
+  border: none; /* Strips default button borders */
+  cursor: pointer; /* Shows the pointer finger icon on hover */
+  padding: 0;
+  line-height: 1;
+}

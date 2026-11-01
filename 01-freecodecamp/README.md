@@ -274,7 +274,7 @@ Variables and Strings
 
 - [x] Build a Real Time Counter, Completed, Lab
 
-- [ ] Build a Lightbox Viewer, Not started, Lab
+- [x] Build a Lightbox Viewer, Completed, Lab
 
 - [ ] Build a Rock, Paper, Scissors Game, Not started, Workshop
 
