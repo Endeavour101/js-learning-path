@@ -276,7 +276,7 @@ Variables and Strings
 
 - [x] Build a Lightbox Viewer, Completed, Lab
 
-- [ ] Build a Rock, Paper, Scissors Game, Not started, Workshop
+- [x] Build a Rock, Paper, Scissors Game, Completed, Workshop
 
 - [ ] Build a Set of Football Team Cards, Not started, Lab
 
