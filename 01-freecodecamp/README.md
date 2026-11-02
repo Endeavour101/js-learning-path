@@ -278,7 +278,7 @@ Variables and Strings
 
 - [x] Build a Rock, Paper, Scissors Game, Completed, Workshop
 
-- [ ] Build a Set of Football Team Cards, Not started, Lab
+- [x] Build a Set of Football Team Cards, Completed, Lab
 
 - [ ] DOM Manipulation and Click Events with JavaScript Review, Not started, Review
 
