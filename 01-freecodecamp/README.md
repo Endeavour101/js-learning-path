@@ -280,12 +280,13 @@ Variables and Strings
 
 - [x] Build a Set of Football Team Cards, Completed, Lab
 
-- [ ] DOM Manipulation and Click Events with JavaScript Review, Not started, Review
+- [x] DOM Manipulation and Click Events with JavaScript Review, Completed, Review
 
-- [ ] DOM Manipulation and Click Events with JavaScript Quiz, Not started, Quiz
+- [x] DOM Manipulation and Click Events with JavaScript Quiz, Completed, Quiz
+
       JavaScript and Accessibility
 
-- [ ] Understanding aria-expanded, aria-live, and Common ARIA States, Not started, Theory
+- [x] Understanding aria-expanded, aria-live, and Common ARIA States, Completed, Theory
 
 - [ ] Build a Planets Tablist, Not started, Workshop
 
@@ -293,12 +294,15 @@ Variables and Strings
 
 - [ ] Build a Theme Switcher, Not started, Lab
 
-- [ ] JavaScript and Accessibility Review, Not started, Review
+- [] JavaScript and Accessibility Review, Not started, Review
 
 - [ ] JavaScript and Accessibility Quiz, Not started, Quiz
+
       Debugging
 
-- [ ] Debugging Techniques, Not started, Theory
+- [x] Debugging Techniques, Completed, Theory
+
+- [x] Build a Library Book Search, Completed, Workshop
 
 - [ ] Debug a Random Background Color Changer, Not started, Lab
 
