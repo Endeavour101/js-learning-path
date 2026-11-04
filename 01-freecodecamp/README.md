@@ -306,9 +306,9 @@ Variables and Strings
 
 - [x] Debug a Random Background Color Changer, Completed, Lab
 
-- [ ] Debugging JavaScript Review, Not started, Review
+- [x] Debugging JavaScript Review, Completed, Review
 
-- [ ] Debugging JavaScript Quiz, Not started, Quiz
+- [x] Debugging JavaScript Quiz, Completed, Quiz
       Basic Regex
 
 - [ ] Working with Regular Expressions, Not started, Theory
