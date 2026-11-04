@@ -304,7 +304,7 @@ Variables and Strings
 
 - [x] Build a Library Book Search, Completed, Workshop
 
-- [ ] Debug a Random Background Color Changer, Not started, Lab
+- [x] Debug a Random Background Color Changer, Completed, Lab
 
 - [ ] Debugging JavaScript Review, Not started, Review
 
