@@ -311,9 +311,9 @@ Variables and Strings
 - [x] Debugging JavaScript Quiz, Completed, Quiz
       Basic Regex
 
-- [ ] Working with Regular Expressions, Not started, Theory
+- [x] Working with Regular Expressions, Completed, Theory
 
-- [ ] Build a Spam Filter, Not started, Workshop
+- [x] Build a Spam Filter, Completed, Workshop
 
 - [ ] Build a Palindrome Checker, Not started, Lab
 

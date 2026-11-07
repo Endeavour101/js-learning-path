@@ -18,9 +18,29 @@ const youngPeople = developers.filter((person) => person.age < 30);
 console.log(youngPeople);
  */
 
-const numbers = [414, 200, 5, 10, 3];
+/* const numbers = [414, 200, 5, 10, 3];
 
 numbers.sort((a, b) => a - b);
 // big to small --> numbers.sort((a, b) => b - a);
 
 console.log(numbers); // [3, 5, 10, 200, 414]
+ */
+
+/* const userData = [0, 1, 1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 1];
+const result = (userData) => {
+  return userData.some((logicLevel) => logicLevel === 1);
+};
+console.log(result(userData)); */
+
+/* const userData = [0, 1, 1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 1];
+const result = userData.some((logicLevel) => logicLevel === 1);
+console.log(result); */
+
+/* const userData = [0, 1, 1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 1];
+const result = userData.every((logicLevel) => logicLevel === 1);
+console.log(result); */
+
+const userData = [1, 1, 1, 0];
+//const userData = [1, 1, 1, 1];
+const result = userData.every((logicLevel) => logicLevel === 1);
+console.log(result);
