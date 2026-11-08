@@ -315,7 +315,7 @@ Variables and Strings
 
 - [x] Build a Spam Filter, Completed, Workshop
 
-- [ ] Build a Palindrome Checker, Not started, Lab
+- [x] Build a Palindrome Checker, Completed, Lab
 
 - [ ] Build a RegEx Sandbox, Not started, Lab
 
