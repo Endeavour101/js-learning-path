@@ -317,7 +317,7 @@ Variables and Strings
 
 - [x] Build a Palindrome Checker, Completed, Lab
 
-- [ ] Build a RegEx Sandbox, Not started, Lab
+- [x] Build a RegEx Sandbox, Completed, Lab
 
 - [ ] Implement a Spinal Case Converter, Not started, Lab
 
