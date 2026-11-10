@@ -319,7 +319,7 @@ Variables and Strings
 
 - [x] Build a RegEx Sandbox, Completed, Lab
 
-- [ ] Implement a Spinal Case Converter, Not started, Lab
+- [x] Implement a Spinal Case Converter, Completed, Lab
 
 - [ ] Implement a Pig Latin Translator, Not started, Lab
 
