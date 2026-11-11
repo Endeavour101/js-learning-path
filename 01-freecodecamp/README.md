@@ -321,7 +321,7 @@ Variables and Strings
 
 - [x] Implement a Spinal Case Converter, Completed, Lab
 
-- [ ] Implement a Pig Latin Translator, Not started, Lab
+- [x] Implement a Pig Latin Translator, Completed, Lab
 
 - [ ] Build a Smart Word Replacement Function, Not started, Lab
 
