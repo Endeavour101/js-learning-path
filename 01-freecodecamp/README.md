@@ -323,7 +323,7 @@ Variables and Strings
 
 - [x] Implement a Pig Latin Translator, Completed, Lab
 
-- [ ] Build a Smart Word Replacement Function, Not started, Lab
+- [x] Build a Smart Word Replacement Function, Completed, Lab
 
 - [ ] JavaScript Regular Expressions Review, Not started, Review
 
