@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <form>
+      <!--
+      <label>Enter your email: </label>
+      <input
+        id="email-input"
+        required
+        placeholder="username@sampleCompany.com"
+        type="email"
+        pattern=".+@sampleCompany\.com"
+      />
+      -->
+      <!--
+      <label>Enter your number: </label>
+      <input
+        id="number-input"
+        required
+        placeholder="1234567890"
+        type="number"
+        min="10"
+        max="100"
+        step="5"
+      />
+    -->
+
+      <label>Enter your number: </label>
+      <input
+        id="number-input"
+        required
+        placeholder="1234567890"
+        type="range"
+        min="10"
+        max="100"
+        step="5"
+      />
+
+      <label>Enter your feedback: </label>
+      <textarea required placeholder="Your feedback here..."></textarea>
+
+      <button type="submit">Submit Feedback</button>
+    </form>
+    <script src="script.js"></script>
+  </body>
+</html>

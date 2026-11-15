@@ -325,15 +325,16 @@ Variables and Strings
 
 - [x] Build a Smart Word Replacement Function, Completed, Lab
 
-- [ ] JavaScript Regular Expressions Review, Not started, Review
+- [x] JavaScript Regular Expressions Review, Completed, Review
 
-- [ ] JavaScript Regular Expressions Quiz, Not started, Quiz
-      Build a Markdown to HTML Converter, Not started, Certification Project  
+- [x] JavaScript Regular Expressions Quiz, Completed, Quiz
+
+      Build a Markdown to HTML Converter, Not started, Certification Project
        Form Validation
 
-- [ ] Understanding Form Validation, Not started, Theory
+- [x] Understanding Form Validation, Completed, Theory
 
-- [ ] Build an Envelope Budget App, Not started, Workshop
+- [x] Build an Envelope Budget App, Completed, Workshop
 
 - [ ] Build a Customer Complaint Form, Not started, Lab
 
