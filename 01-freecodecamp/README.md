@@ -336,7 +336,7 @@ Variables and Strings
 
 - [x] Build an Envelope Budget App, Completed, Workshop
 
-- [ ] Build a Customer Complaint Form, Not started, Lab
+- [x] Build a Customer Complaint Form, Completed, Lab
 
 - [ ] Form Validation with JavaScript Review, Not started, Review
 
