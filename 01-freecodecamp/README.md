@@ -338,14 +338,14 @@ Variables and Strings
 
 - [x] Build a Customer Complaint Form, Completed, Lab
 
-- [ ] Form Validation with JavaScript Review, Not started, Review
+- [x] Form Validation with JavaScript Review, Completed, Review
 
-- [ ] Form Validation with JavaScript Quiz, Not started, Quiz
+- [x] Form Validation with JavaScript Quiz, Completed, Quiz
       Dates
 
-- [ ] Working with Dates, Not started, Theory
+- [x] Working with Dates, Completed, Theory
 
-- [ ] Build a Date Conversion Program, Not started, Lab
+- [x] Build a Date Conversion Program, Completed, Lab
 
 - [ ] JavaScript Dates Review, Not started, Review
 
