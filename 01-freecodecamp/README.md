@@ -347,12 +347,13 @@ Variables and Strings
 
 - [x] Build a Date Conversion Program, Completed, Lab
 
-- [ ] JavaScript Dates Review, Not started, Review
+- [x] JavaScript Dates Review, Completed, Review
 
-- [ ] JavaScript Dates Quiz, Not started, Quiz
+- [x] JavaScript Dates Quiz, Completed, Quiz
+
       Audio and Video Events
 
-- [ ] Working with Audio and Video, Not started, Theory
+- [x] Working with Audio and Video, Completed, Theory
 
 - [ ] Build a Music Player, Not started, Workshop
 
