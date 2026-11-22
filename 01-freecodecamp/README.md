@@ -355,12 +355,13 @@ Variables and Strings
 
 - [x] Working with Audio and Video, Completed, Theory
 
-- [ ] Build a Music Player, Not started, Workshop
+- [x] Build a Music Player, Completed, Workshop
 
 - [ ] JavaScript Audio and Video Review, Not started, Review
 
 - [ ] JavaScript Audio and Video Quiz, Not started, Quiz
-      Build a Drum Machine, Not started, Certification Project  
+
+      Build a Drum Machine, Not started, Certification Project
        Maps and Sets
 
 - [ ] Working with Maps and Sets, Not started, Theory
@@ -370,7 +371,8 @@ Variables and Strings
 - [ ] JavaScript Maps and Sets Review, Not started, Review
 
 - [ ] JavaScript Maps and Sets Quiz, Not started, Quiz
-      Build a Voting System, Not started, Certification Project  
+
+      Build a Voting System, Not started, Certification Project
        localStorage and CRUD Operations
 
 - [ ] Working with Client-Side Storage and CRUD Operations, Not started, Theory
@@ -393,7 +395,8 @@ Variables and Strings
 - [ ] JavaScript Classes Review, Not started, Review
 
 - [ ] JavaScript Classes Quiz, Not started, Quiz
-      Build a Bank Account Management Program, Not started, Certification Project  
+
+      Build a Bank Account Management Program, Not started, Certification Project
        Recursion
 
 - [ ] Understanding Recursion and the Call Stack, Not started, Theory
@@ -473,6 +476,7 @@ Variables and Strings
 - [ ] Dynamic Programming Review, Not started, Review
 
 - [ ] Dynamic Programming Quiz, Not started, Quiz
+
       Functional Programming
 
 - [ ] Understanding Functional Programming, Not started, Theory
