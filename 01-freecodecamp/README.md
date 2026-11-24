@@ -329,8 +329,9 @@ Variables and Strings
 
 - [x] JavaScript Regular Expressions Quiz, Completed, Quiz
 
-      Build a Markdown to HTML Converter, Not started, Certification Project
-       Form Validation
+- [ ] Build a Markdown to HTML Converter, Not started, Certification Project
+
+      Form Validation
 
 - [x] Understanding Form Validation, Completed, Theory
 
@@ -357,23 +358,25 @@ Variables and Strings
 
 - [x] Build a Music Player, Completed, Workshop
 
-- [ ] JavaScript Audio and Video Review, Not started, Review
+- [x] JavaScript Audio and Video Review, Completed, Review
 
-- [ ] JavaScript Audio and Video Quiz, Not started, Quiz
+- [x] JavaScript Audio and Video Quiz, Completed, Quiz
 
-      Build a Drum Machine, Not started, Certification Project
-       Maps and Sets
+- [ ] Build a Drum Machine, Not started, Certification Project
 
-- [ ] Working with Maps and Sets, Not started, Theory
+      Maps and Sets
 
-- [ ] Build a Plant Nursery Catalog, Not started, Workshop
+- [x] Working with Maps and Sets, Completed, Theory
+
+- [x] Build a Plant Nursery Catalog, Completed, Workshop
 
 - [ ] JavaScript Maps and Sets Review, Not started, Review
 
 - [ ] JavaScript Maps and Sets Quiz, Not started, Quiz
 
-      Build a Voting System, Not started, Certification Project
-       localStorage and CRUD Operations
+- [ ] Build a Voting System, Not started, Certification Project
+
+localStorage and CRUD Operations
 
 - [ ] Working with Client-Side Storage and CRUD Operations, Not started, Theory
 
